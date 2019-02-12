@@ -1,6 +1,9 @@
 library(tidyverse)
 library(stringr)
+library(readr)
+library(asciiSetupReader)
 
+# Read in data from the GTD
 pvia <- read_csv("~/Downloads/GTD-Export.csv")
 
 # change column names to lowercase
@@ -13,7 +16,9 @@ pvia <- pvia %>%
 
 ggplot(pvia, aes(x = city)) + geom_bar() + coord_flip()
 
-pvia_2 <- read_csv("~/Downloads/ICPSR_05208/DS0001/ICPSR_2.csv")
+
+# Read in data from the Data Bank of Assassinations (ICPSR)
+pvia_2 <- asciiSetupReader::spss_ascii_reader("05208-0001-Data.txt", "05208-0001-Setup.sps")
 
 # rename columns
 names(pvia_2) <- c("country", "month", "day", "year", "outcome", "action", "minority_hostility",
