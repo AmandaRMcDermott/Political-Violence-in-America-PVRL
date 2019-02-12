@@ -307,3 +307,4 @@ TSWLatexianTemp*
 *.glstex
 
 # End of https://www.gitignore.io/api/r,tex
+.Rproj.user
