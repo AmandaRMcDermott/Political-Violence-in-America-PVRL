@@ -86,10 +86,9 @@ pvia_2$nature_target <- recode(pvia_2$nature_target,
 
 
 #pvia_3 <- asciiSetupReader::spss_ascii_reader("05302-0001-Data.txt", "05302-0001-Setup.sps")
-pvia_4 <- asciiSetupReader::spss_ascii_reader("05206-0001-Data.txt", "05206-0001-Setup.sps")
+#pvia_4 <- asciiSetupReader::spss_ascii_reader("05206-0001-Data.txt", "05206-0001-Setup.sps")
 pvia_5 <- asciiSetupReader::spss_ascii_reader("00080-0001-Data.txt", "00080-0001-Setup.sps" )
 
-pvia_4 <- pvia_4 %>% filter(COUNTRY_CODE == "UNITED STATES", TYPE_OF_EVENT == "ASSASSINATIONS (ASSASSINATION IS DEFINED AS THE")
 
 
 # change column names to lowercase
@@ -248,6 +247,8 @@ spec_pvia_5$`perpetrator 2` <- recode(spec_pvia_5$`perpetrator 2`,
       "0" = "Racial group",
       "4" = "Political group")
 
+# change class of fatalities target
+spec_pvia_5$fatalities_target <- as.numeric(spec_pvia_5$fatalities_target)
 
 
 
