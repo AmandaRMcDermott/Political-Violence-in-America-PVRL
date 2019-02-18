@@ -1,0 +1,840 @@
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                         POLITICAL VIOLENCE IN THE UNITED STATES                     
+                                        1819-1968                                    
+                                                                                     
+                                       (ICPSR 0080)                                  
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                  Principal Investigator                             
+                                                                                     
+                                     Sheldon G. Levy                                 
+                                  Wayne State University                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                   First ICPSR Edition                               
+                                           197?                                      
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                             Inter-university Consortium for                         
+                              Political and Social Research                          
+                                      P.O. Box 1248                                  
+                                Ann Arbor, Michigan 48106                            
+                                                                                     
+                                                                                     
+                                                                                     
+                [Hard copy documentation transformed into machine-readable           
+               text utilizing Optical Character Recognition (OCR) Scanning,          
+                                       April 1991]                                   
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                  BIBLIOGRAPHIC CITATION                             
+                                                                                     
+                                                                                     
+              Publications   based  on  ICPSR   data   collections    should         
+              acknowledge those sources by means of bibliographic citations.         
+              To ensure that  such  source  attributions  are  captured  for         
+              social science  bibliographic utilities, citations must appear         
+              in footnotes or in the reference section of publications.  The         
+              bibliographic citation for this data collection is:                    
+                                                                                     
+                                                                                     
+                    Levy, Sheldon G.  POLITICAL VIOLENCE IN THE UNITED               
+                    STATES, 1819-1968 [Computer file].  ICPSR ed.  Ann               
+                    Arbor,  MI:    Inter-university   Consortium   for               
+                    Political   and  Social  Research  [producer   and               
+                    distributor], 197?.                                              
+                                                                                     
+                                                                                     
+                                                                                     
+                    REQUEST FOR INFORMATION ON USE OF ICPSR RESOURCES                
+                                                                                     
+              To provide funding agencies with essential  information  about         
+              use of  archival  resources  and to facilitate the exchange of         
+              information about  ICPSR  participants'  research  activities,         
+              users   of  ICPSR  data  are  requested  to  send   to   ICPSR         
+              bibliographic citations  for  each  completed  manuscript   or         
+              thesis abstract.  Please indicate in a cover letter which data         
+              were used.                                                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                     DATA DISCLAIMER                                 
+                                                                                     
+              The original  collector  of  the data, ICPSR, and the relevant         
+              funding agency  bear  no  responsibility  for  uses  of   this         
+              collection or  for  interpretations  or  inferences based upon         
+              such uses.                                                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                    STUDY DESCRIPTION                                
+                                                                                     
+                                                                                     
+     Data contained in this study deal with incidents of political and social        
+     violence in the United States from 1819 to 1968, originally collected by        
+     Professor Sheldon G. Levy of Wayne State University in connection with the      
+     National Commission on the Causes and Prevention of Violence (established       
+     1968). The information contained in this file was gathered from a newspaper     
+     sample, and includes variables such as date of the violent event, numbers of    
+     deaths and injuries resulting from the events, and motivation or reasons for    
+     the attack or violent event.                                                    
+                                                                                     
+                                                                                     
+     Related publication:                                                            
+          Sheldon Levy,                                                              
+               "A 150-year Study of Political Violence in the United States,"        
+               in Hugh Davis Graham and Ted Robert Gurr (eds.), Violence in          
+               America: Historical and Comparative Perspectives. Official            
+               report to the National Commission on the Causes and Prevention        
+               of Violence (New York, 1969), pp. 81-91.                              
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 0080                                                             Page    1
+                                                                                     
+                                                                                     
+                                       Introduction                                  
+                                       ------------                                  
+                                                                                     
+          This data set, which contains information about "politically violent       
+     events" in the United States from 1851 through 1968, was generated in the       
+     course of a research project conducted by Sheldon G. Levy. The unit of          
+     analysis is an event. A sample of 869 violent events was drawn from             
+     randomly-selected issues of two newspapers. From 1819 through 1850 four         
+     issues of the Washington (D.C.) National Intelligence were selected each month; 
+     from 1851 through 1899 four issues of the New York Times were selected each     
+     month; and from 1900 through 1968 two issues of the New York Times were         
+     selected each month. All politically violent incidents found in the selected    
+     issues were coded. A weight variable, constructed by ICPR, has been included so 
+     that variable frequencies may be adjusted with respect to the number of issues  
+     sampled.                                                                        
+                                                                                     
+          Politically violent events were defined as those involving an attack on an 
+     official or group of officials for any reason or an attack on an individual or  
+     group of individuals for political or social reasons. Three indices of          
+     political violence were used: the number of violent events; the number of       
+     deaths resulting from the events; and the number of injuries resulting from the 
+     events. Additional data collected include: data of event; nature of target;     
+     number of attackers; level of violence by attacker; violence by a group of      
+     attackers; motivation or reasons for attack; injury to target; property damage; 
+     injury to attacker; type of attacker; and number of pages in newspaper issue.   
+                                                                                     
+          An initial statistical analysis of the data has been published as Sheldon  
+     Levy, "A 150-Year Study of Political Violence in the United States," in         
+     Violence in America, Historical and Comparative Perspectives by Hugh Davis      
+     Graham and Ted Robert Gurr. A more extensive analysis may be found in A Staff   
+     Report to the National Commission on the Causes and Prevention of Violence,     
+     Volumes 1 and 8; and Assassination and Political Violence, "Political Violence  
+     in the United States," pp. 181-190.                                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    2                                                             ICPSR 0080
+                                                                                     
+                                                                                     
+     Variable                                      Description                       
+      Number                                                                         
+                                                                                     
+          1                     ISSUE IDENTIFICATION NUMBER                          
+                                Five digit number                                    
+                                                                                     
+          2                     EVENT IDENTIFICATION NUMBER                          
+                                Five digit number                                    
+                                                                                     
+          3                     CARD NUMBER - (One card for Each Event)              
+                                Two digit number                                     
+                                                                                     
+          4                     NEWSPAPER IDENTIFICATION                             
+                                01  New York Times                                   
+                                02  Philadelphia Inquirer                            
+                                03  St. Louis Post Dispatch                          
+                                04  Chicago Tribune                                  
+                                05  San Francisco Chronicle                          
+                                06  Cleveland Plain Dealer                           
+                                07  Detroit Free Press                               
+                                08  Atlanta Constitution                             
+                                09  Washington Post                                  
+                                10  Los Angeles Times                                
+                                11  Kansas City Star                                 
+                                12  Daily National Intelligence (Washington, D.C.)   
+                                                                                     
+          5                     MONTH OF ISSUE                                       
+                                01  January                                          
+                                02  February                                         
+                                03  March                                            
+                                04  April                                            
+                                05  May                                              
+                                06  June                                             
+                                07  July                                             
+                                08  August                                           
+                                09  September                                        
+                                10  October                                          
+                                11  November                                         
+                                12  December                                         
+                                                                                     
+          6                     DAY OF ISSUE                                         
+                                01-31, Day of the Month                              
+                                                                                     
+          7                     YEAR OF ISSUE                                        
+                                Four Digit Year                                      
+                                                                                     
+          8                     PAGE OF CITATION                                     
+                                Three Digit Page                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 0080                                                             Page    3
+                                                                                     
+                                                                                     
+     Variable                                      Description                       
+       Number                                                                        
+                                                                                     
+          9                     NATURE OF THE TARGET INDIVIDUAL AS TARGET            
+                                       CURRENT POLITICAL OFFICE HOLDER FEDERAL       
+                                       01 Supreme Court - Other Federal Judges       
+                                       02 Cabinet Member                             
+                                       03 Other Federal Appointments                 
+                                       04 President                                  
+                                       05 Vice-President                             
+                                       06 Senator                                    
+                                       07 Representative                             
+                                                                                     
+                                       CANDIDATE FOR FEDERAL OFFICE                  
+                                       08  Supreme Court - Other Federal Judges      
+                                       09  Cabinet Member                            
+                                       10  Other Federal Appointments                
+                                       11  President                                 
+                                       12  Vice-President                            
+                                       13  Senator                                   
+                                       14  Representative                            
+                                                                                     
+                                       CURRENT POLITICAL OFFICE HOLDER - STATE AND   
+                                       LOCAL                                         
+                                       15  Governor                                  
+                                       16  State Legislator                          
+                                       17  Judge - Other State Official              
+                                       18  Mayor of a City                           
+                                       19  City Councilman                           
+                                       20  Other City Official                       
+                                                                                     
+                                       CANDIDATE FOR STATE OR LOCAL OFFICE           
+                                       21  Governor                                  
+                                       22  State Legislator                          
+                                       23  Judge - Other State Official              
+                                       24  Mayor of a City                           
+                                       25  City Councilman                           
+                                       26  Other City Official                       
+                                                                                     
+                                       OTHER LEADERS                                 
+                                       27  Political Party Leader or Official        
+                                       28  Labor Leader                              
+                                       29  Business Leader                           
+                                       40  Religious Leader                          
+                                       41  Leader of racial group                    
+                                       47  Other Individual                          
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    4                                                             ICPSR 0080
+                                                                                     
+                                                                                     
+     Variable                                     Description                        
+      Number                                                                         
+                                                                                     
+                                       GROUPS LARGER THAN ONE AS TARGET              
+                                       30  Two                                       
+                                       31  Three                                     
+                                       32  Four                                      
+                                       33  Five                                      
+                                       34  6-10                                      
+                                       35  11-25                                     
+                                       36  26-99                                     
+                                       37  100-500                                   
+                                       38  501-1000                                  
+                                       39  More than 1000                            
+                                       98  Don't Know                                
+                                       99  Inappropriate, Not Ascertained            
+                                                                                     
+       10                       NATURE OF THE PROPERTY AS TARGET                     
+                                0 None                                               
+                                1 Personal Property                                  
+                                2 Business Property                                  
+                                3 Government Property                                
+                                4 Religious Property                                 
+                                7 Other                                              
+                                8 Don't Know                                         
+                                9 Not Ascertained                                    
+                                                                                     
+       11                       NUMBER OF ATTACKERS                                  
+                                01 Individual                                        
+                                02 Two                                               
+                                03 Three                                             
+                                04 Four                                              
+                                05 Five                                              
+                                06 6-10                                              
+                                07 11-25                                             
+                                08 26-99                                             
+                                09 100-500                                           
+                                10 501-1000                                          
+                                11 More than 1000                                    
+                                97 Other                                             
+                                98 Don't Know                                        
+                                99 Inappropriate, Not Ascertained                    
+                                                                                     
+       12                       LEVEL OF VIOLENCE BY INDIVIDUAL ATTACKER             
+                                0 Throwing of Object (rock or bottle)                
+                                                                                     
+                             BEATING:                                                
+                                1 Fists                                              
+                                2 Non-Lethal Object (sticks)                         
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 0080                                                             Page    5
+                                                                                     
+                                                                                     
+     Variable                                     Description                        
+      Number                                                                         
+                             USE OF WEAPONS:                                         
+                                3 Knifing                                            
+                                4 Pistol                                             
+                                5 Rifle                                              
+                                6 Bombing                                            
+                                7 Other                                              
+                                8 Don't Know                                         
+                                9 Inappropriate, Not Ascertained                     
+                                                                                     
+      13                        LEVEL OF VIOLENCE BY A GROUP OF ATTACKERS            
+                                0 Verbal (booing, shouting)                          
+                                1 Demonstration (crowd, picket, legal strikes)       
+                                2 Demonstration (sit-in, illegal activity, including 
+                                                 illegal strike)                     
+                                3 Throwing objects                                   
+                                4 Riot                                               
+                                5 Group Assault (beating, tarring & feathering,      
+                                                 whipping)                           
+                                6 Group Deadly Assault (lynching, homicide)          
+                                7 Other                                              
+                                8 Don't Know                                         
+                                9 Inappropriate, Not Ascertained                     
+                                                                                     
+       14                     MOTIVATION OR REASON FOR ATTACK                        
+                                  PERSONAL GAIN                                      
+                                  01 Economic Gain                                   
+                                  02 Personal Revenge                                
+                                  03 Political Disagreement                          
+                                  04 To gain political advantage                     
+                                                                                     
+                                  ACTION AGAINST AUTHORITY                           
+                                  05  To obtain a political goal (other than         
+                                      legislation)                                   
+                                  06  Response to social conditions                  
+                                  07  Protest political election procedures          
+                                  08  To obtain legislation                          
+                                  11  Protest  legislation that did pass             
+                                  12  Protest  legislation that did not pass         
+                                  13  Protest  court decision                        
+                                  14  Protest  executive decision                    
+                                  15  Protest  police action                         
+                                  16  Protest  action of local officials             
+                                  17  To overthrow government                        
+                                                                                     
+                                  FOREIGN AFFAIRS PROTEST                            
+                                  21  Failure to go to war                           
+                                  22  Decision to go to war                          
+                                  23  Current involvement in war                     
+                                  24  To obtain government action in foreign affairs 
+                                  25  To protest government action in foreign        
+                                      affairs                                        
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    6                                                             ICPSR 0080
+                                                                                     
+                                                                                     
+     Variable                                     Description                        
+      Number                                                                         
+                                                                                     
+                                  TO CHANGE OFFICIAL LEADERSHIP                      
+                                  31 To effect change in political personnel         
+                                  33 To change other official personnel              
+                                                                                     
+                                  PROTESTS BASED ON GROUP ANTAGONISM                 
+                                  40  Religious antagonism                           
+                                  41  Labor antagonism                               
+                                  42  Racial antagonism                              
+                                  43  Political antagonism                           
+                                  44  Differences in social viewpoints               
+                                  45  Internal group antagonisms                     
+                                  47  Other group antagonisms                        
+                                                                                     
+                                  REACTION OF OFFICIAL GROUPS                        
+                                  50  To maintain official authority by police       
+                                  51  To maintain official authority--other local    
+                                  52  To maintain official state authority           
+                                  53  To maintain official national authority        
+                                  57  To maintain other official authority           
+                                  97  Other                                          
+                                  98  Don't Know                                     
+                                  99  Inappropriate, Not ascertained                 
+                                                                                     
+       15                       INJURY TO INDIVIDUAL AS TARGET                       
+                                0 None                                               
+                                1 Disruption of Individual's activity                
+                                2 Wound, Not Fatal                                   
+                                3 Wound, Fatal                                       
+                                4 Arrest                                             
+                                7 Other                                              
+                                8 Don't Know                                         
+                                9 Inappropriate, Not Ascertained                     
+                                                                                     
+       16                       NUMBER OF PERSONS INJURED - TARGET                   
+                                00-50 Exact number                                   
+                                51 51-99                                             
+                                52 100-499                                           
+                                53 500-999                                           
+                                54 Over 1000                                         
+                                98 Don't Know                                        
+                                99 Inappropriate, Not Ascertained                    
+                                                                                     
+       17                       NUMBER PERSONS KILLED - TARGET                       
+                                00-50 Exact Number                                   
+                                51 51-99                                             
+                                52 100-499                                           
+                                53 500-999                                           
+                                54 Over 1000                                         
+                                97 None                                              
+                                98 Don't Know                                        
+                                99 Inappropriate, Not Ascertained                    
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 0080                                                             Page    7
+                                                                                     
+                                                                                     
+     Variable                                     Description                        
+      Number                                                                         
+                                                                                     
+       18                       PROPERTY DAMAGE - TARGET (IN DOLLARS)                
+                                0 None                                               
+                                1 1-999                                              
+                                2 1,000-4,999                                        
+                                3 5,000-24,999                                       
+                                4 25,000-99,999                                      
+                                5 100,000-499,999                                    
+                                6 1/2 million-2 million                              
+                                7 More than 2 million                                
+                                8 Don't Know                                         
+                                9 Inappropriate, Not Ascertained                     
+                                                                                     
+       19                       INJURY TO INDIVIDUAL - ATTACKER                      
+                                0 None                                               
+                                1 Disruption of Individual's Activity                
+                                2 Wound, Not Fatal                                   
+                                3 Wound, Fatal                                       
+                                4 Arrest                                             
+                                7 Other                                              
+                                8 Don't Know                                         
+                                9 Inappropriate, Not Ascertained                     
+                                                                                     
+       20                       NUMBER PERSONS INJURED - ATTACKER                    
+                                00-50 Exact Number                                   
+                                51 51-99                                             
+                                52 100-499                                           
+                                53 500-999                                           
+                                54 Over 1000                                         
+                                97 None                                              
+                                98 Don't Know                                        
+                                99 Inappropriate, Not Ascertained                    
+                                                                                     
+       21                       NUMBER PERSONS KILLED - ATTACKER                     
+                                00-50 Exact Number                                   
+                                51 51-99                                             
+                                52 100-499                                           
+                                53 500-999                                           
+                                54 Over 1000                                         
+                                97 None                                              
+                                98 Don't Know                                        
+                                99 Inappropriate, Not Ascertained                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    8                                                             ICPSR 0080
+                                                                                     
+                                                                                     
+     Variable                                   Description                          
+      Number                                                                         
+                                                                                     
+       22                       PROPERTY DAMAGE - ATTACKER (IN DOLLARS)              
+                                0 None                                               
+                                1 1-999                                              
+                                2 1,000-4,999                                        
+                                3 5,000-24,999                                       
+                                4 25,000-99,999                                      
+                                5 100,000-499,999                                    
+                                6 1/2 million-2 million                              
+                                7 More than 2 million                                
+                                8 Don't Know                                         
+                                9 Inappropriate, Not Ascertained                     
+                                                                                     
+       23                       NUMBER OF PAGES IN ISSUE                             
+                                Three digit Number                                   
+                                                                                     
+       24                       DAY OF THE WEEK OF THE ISSUE                         
+                                1 Monday                                             
+                                2 Tuesday                                            
+                                3 Wednesday                                          
+                                4 Thursday                                           
+                                5 Friday                                             
+                                6 Saturday                                           
+                                7 Sunday                                             
+                                                                                     
+       25                       CODER IDENTIFICATION NUMBER                          
+                                Two digit Number                                     
+                                                                                     
+       26                       EVENT OCCURRENCE                                     
+                                0 No event coded on card                             
+                                1 An event was coded on the card                     
+                                                                                     
+       27                      TYPE OF GROUP AS TARGET                               
+                               0  Racial Group                                       
+                               1  Labor group                                        
+                               2  Business group                                     
+                               3  Religious group                                    
+                               4  Political group                                    
+                               5  Social Protest group                               
+                               6  Group of public officials                          
+                               7  Other                                              
+                               8  Don't Know                                         
+                               9  Inappropriate, Not Ascertained                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 0080                                                             Page    9
+                                                                                     
+                                                                                     
+     Variable                                   Description                          
+      Number                                                                         
+                                                                                     
+       28                      TYPE OF INDIVIDUAL AS ATTACKER                        
+                               0  Federal office holder                              
+                               1  State office holder                                
+                               2  Local office holder                                
+                               3  Primarily political affiliation                    
+                               4  Primarily labor affiliation                        
+                               5  Primarily racial affiliation                       
+                               6  Primarily religious affiliation                    
+                               7  Other                                              
+                               8  Don't Know                                         
+                               9  Inappropriate, Not Ascertained                     
+                                                                                     
+       29                      TYPE OF GROUP AS ATTACKER                             
+                               0  Racial group                                       
+                               1  Labor group                                        
+                               2  Business group                                     
+                               3  Religious group                                    
+                               4  Political group                                    
+                               5  Social Protest group                               
+                               6  Group of public officials                          
+                               7  Other                                              
+                               8  Don't Know                                         
+                               9  Inappropriate, Not Ascertained                     
+                                                                                     
+       30                      WEIGHT VARIABLE                                       
+                                                                                     
+                               This variable was constructed by ICPR to adjust for   
+                               the  different sampling procedures used in the data   
+                               collection process (see Introduction). All events     
+                               occurring from 1819 through 1899 were given a weight  
+                               value of 1.0, and all events occurring from 1900      
+                               through 1968 were given a weight value of 2.2. The    
+                               use of this weight variable is necessary to replicate 
+                               the statistical analysis found in the publications    
+                               cited in the introduction.                            
+                                                                                     
+                               1.0  Weight value for all sampled events from 1819    
+                                    through 1899                                     
+                               2.2  Weight value for all sampled events from 1900    
+                                    through 1968                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page   10                                                             ICPSR 0080
+                                                                                     
+                                                                                     
+                                       DATA FORMAT                                   
+                                                                                     
+                                                                                     
+     VAR              NAME           START   WIDTH/   #        MD1       MD2         
+      #                               TLOC   RESP    RESP                            
+                                                                                     
+      1  ISSUE IDENTIFICATION NO.        1     5       1      99999                  
+      2  EVENT IDENTIFICATION NO.        6     5       1      99999                  
+      3  EVENT/ISSUE NO.                11     2       1         99                  
+      4  NEWSPAPER IDENTIFICATION       13     2       1         99                  
+      5  MONTH OF ISSUE                 15     2       1         99                  
+      6  DAY OF ISSUE                   17     2       1         99                  
+      7  YEAR OF ISSUE                  19     4       1       9999                  
+      8  PAGE OF CITATION               23     3       1        999                  
+      9  NATURE OF THE TARGET           26     2       1         98        99        
+     10  PROPERTY AS TARGET             28     1       1          8         9        
+     11  NUMBER OF ATTACKERS            29     2       1         98        99        
+     12  INDIVIDUAL VIOLENCE            31     1       1          8         9        
+     13  GROUP VIOLENCE                 32     1       1          8         9        
+     14  MOTIVATION FOR ATTACK          33     2       1         98        99        
+     15  INJURY TO INDIVIDL TRGT        35     1       1          8         9        
+     16  INJURY TO GROUP TARGET         36     2       1         98        99        
+     17  NUMBER KILLED-TARGET           38     2       1         98        99        
+     18  PROPERTY DAMAGE-TARGET         40     1       1          8         9        
+     19  INJURY TO INDVDL ATTACKR       41     1       1          8         9        
+     20  INJURY TO GROUP ATTACKER       42     2       1         98        99        
+     21  NUMBER KILLED-ATTACKER         44     2       1         98        99        
+     22  PROPERTY DAMAGE-ATTACKER       46     1       1          8         9        
+     23  TOTAL PAGES IN ISSUE           47     3       1        999                  
+     24  WEEKDAY OF ISSUE               50     1       1          9                  
+     25  CODER IDENTIFICATION NO.       51     2       1         99                  
+     26  EVENT OCCURENCE                53     1       1          8         9        
+     27  TYPE OF GROUP AS TARGET        54     1       1          8         9        
+     28  TYPE INDVDL AS ATTACKER        55     1       1          8         9        
+     29  TYPE GROUP AS ATTACKER         56     1       1          8         9        
+     30  WEIGHT  VARIABLE               57     2       1         99                  
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
