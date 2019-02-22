@@ -14,9 +14,6 @@ pvia$date <- as.Date(pvia$date, "%Y-&m-%d")
 pvia <- pvia %>% 
   select(2, 4:15, 20:22)
 
-ggplot(pvia, aes(x = city)) + geom_bar() + coord_flip()
-
-
 # Read in data from the Data Bank of Assassinations (ICPSR)
 pvia_2 <- asciiSetupReader::spss_ascii_reader("DBA_Data.txt", "DBA_Setup.sps")
 
@@ -40,53 +37,21 @@ pvia_2 <- pvia_2 %>%
   filter(country == "79") %>% # select only US obs 
   select(-1)
 
+# Convert variable contents to lowercase
+pvia_2$outcome <- tolower(pvia_2[,2])
+pvia_2$action <- tolower(pvia_2[,3])
+pvia_2$reason <- tolower(pvia_2[,5])
+pvia_2$perpetrator.1 <- tolower(pvia_2[,6])
+pvia_2$target.type.1 <- tolower(pvia_2[,7])
+pvia_2$fatalities <- tolower(pvia_2[,10])
+
 
 ########  RECODING VARIABLE MEANINGS
-# Success - Y/N
-pvia_2$outcome <- ifelse(pvia_2$outcome == "1", "Yes", "No")
-
-# Action - attempt vs plot
-pvia_2$action<- ifelse(pvia_2$action == "1", "attempt", "plot")
-
-# Minority Hostility - Y/N
-pvia_2$minority_hostility <- ifelse(pvia_2$minority_hostility == 1, "Yes", "No")
-
-# Reason
-pvia_2$reason <- ifelse(pvia_2$reason == "1", "Political", 
-                        ifelse(pvia_2$reason == "2", "Religious",
-                               ifelse(pvia_2$reason == "3", "Economic", 
-                                      ifelse(pvia_2$reason == "4", "Ethnic",
-                                            ifelse(pvia_2$reason == "5", "Educational", NA)))))
-# Type of Initiator
-pvia_2$perpetrator.1 <- recode(pvia_2$perpetrator.1,
-      "EXTRMST POL. GRP" = "Extremist political group",
-      "BIG BUS./MNGRS/PROFESSIONAL" = "Big business/managers/professional",
-      "UNSPECIFIED" = "NA")
-
-# Type of Target
-pvia_2$type_target <- recode(pvia_2$type_target, 
-        "15" = "worker/laborer", 
-       "20" = "Chief of State or military junta",
-       "27" = "legislative",
-       "35" = "state governor",
-       "24" = "other national government official",
-       "3" = "social/political movt/leader",
-       "1" = "unspecified",
-       "25" = "political party/leader")
-
-# Nature of initiator
-pvia_2$nature_initiator <- recode(pvia_2$nature_initiator,
-                                  "68" = "Puerto Rican",
-                                  "200" = "majority")
-
-# Nature of target
-pvia_2$nature_target <- recode(pvia_2$nature_target, 
-                             "200" = "majority",
-                             "46" = "black")
-
 
 #pvia_3 <- asciiSetupReader::spss_ascii_reader("05302-0001-Data.txt", "05302-0001-Setup.sps")
 #pvia_4 <- asciiSetupReader::spss_ascii_reader("05206-0001-Data.txt", "05206-0001-Setup.sps")
+
+# Import Poli Violence in the US data
 pvia_5 <- asciiSetupReader::spss_ascii_reader("00080-0001-Data.txt", "00080-0001-Setup.sps" )
 
 

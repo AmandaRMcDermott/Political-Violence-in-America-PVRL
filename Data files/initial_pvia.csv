@@ -142,19 +142,19 @@ date,perpetrator 1,perpetrator 2,fatalities,injured,target type 1,target type 2,
 1965-03-04,Primary racial affiliation,Racial group,NA,NA,Leader of racial group,Racial group,Racial antagonism
 1966-09-02,NA,NA,NA,NA,Other Individual,NA,NA
 1968-09-03,NA,Racial group,1,NA,NA,Racial group,Racial antagonism
-1948-04-20,"NA",NA,0,1,TRADE UN. GRP/LEADER,NA,NA
-1950-11-01,Extremist political group,NA,0,0,CHIEF OF STATE OR MIL. JUNTA,NA,NA
-1954-03-01,Extremist political group,NA,0,5,LEGISLATIVE (NATL),NA,NA
-1959-04-12,"NA",NA,0,1,STATE GOVERNOR,NA,NA
-1961-04-02,"NA",NA,0,0,CHIEF OF STATE OR MIL. JUNTA,NA,NA
-1962-12-02,"NA",NA,0,0,TRADE UN. GRP/LEADER,NA,NA
-1963-04-12,"NA",NA,0,0,OTH. NATL GOVT OFFL,NA,NA
-1963-05-12,"NA",NA,0,0,SOC. OR POL. MVMT/LDR,NA,NA
-1963-06-13,"NA",NA,1,0,SOC. OR POL. MVMT/LDR,NA,NA
-1963-11-23,"NA",NA,1,0,CHIEF OF STATE OR MIL. JUNTA,NA,NA
-1963-11-24,"NA",NA,1,0,UNSPECIFIED,NA,NA
-1965-02-15,"NA",NA,0,0,SOC. OR POL. MVMT/LDR,NA,NA
-1965-02-22,"NA",NA,1,0,SOC. OR POL. MVMT/LDR,NA,NA
-1965-03-21,"NA",NA,0,0,SOC. OR POL. MVMT/LDR,NA,NA
-1965-07-20,Big business/managers/professional,NA,0,0,OTH. NATL GOVT OFFL,NA,NA
-1967-08-26,"NA",NA,1,0,POL. PARTY/LEADER,NA,NA
+1948-04-20,unspecified,NA,0,1,trade un. grp/leader,NA,economic
+1950-11-01,extrmst pol. grp,NA,0,0,chief of state or mil. junta,NA,ethnic
+1954-03-01,extrmst pol. grp,NA,0,5,legislative (natl),NA,political
+1959-04-12,unspecified,NA,0,1,state governor,NA,political
+1961-04-02,unspecified,NA,0,0,chief of state or mil. junta,NA,political
+1962-12-02,unspecified,NA,0,0,trade un. grp/leader,NA,political
+1963-04-12,unspecified,NA,0,0,oth. natl govt offl,NA,political
+1963-05-12,unspecified,NA,0,0,soc. or pol. mvmt/ldr,NA,educational
+1963-06-13,unspecified,NA,1,0,soc. or pol. mvmt/ldr,NA,ethnic
+1963-11-23,unspecified,NA,1,0,chief of state or mil. junta,NA,political
+1963-11-24,unspecified,NA,1,0,unspecified,NA,political
+1965-02-15,unspecified,NA,0,0,soc. or pol. mvmt/ldr,NA,ethnic
+1965-02-22,unspecified,NA,1,0,soc. or pol. mvmt/ldr,NA,political
+1965-03-21,unspecified,NA,0,0,soc. or pol. mvmt/ldr,NA,educational
+1965-07-20,big bus./mngrs/professional,NA,0,0,oth. natl govt offl,NA,political
+1967-08-26,unspecified,NA,1,0,pol. party/leader,NA,political
