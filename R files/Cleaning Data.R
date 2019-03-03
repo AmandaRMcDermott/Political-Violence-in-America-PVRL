@@ -215,5 +215,19 @@ spec_pvia_5$`perpetrator 2` <- recode(spec_pvia_5$`perpetrator 2`,
 # change class of fatalities target
 spec_pvia_5$fatalities_target <- as.numeric(spec_pvia_5$fatalities_target)
 
+write_csv(spec_pvia_5, "spec_pvia_5.csv")
 
+
+# Redo date column for Levy's dataset
+levy_pvia_edit <- levy_pvia_edit %>% 
+  separate(date_issued, c("month", "day", "year"), sep = "/")
+
+levy_pvia_edit$year <- paste0("19", levy_pvia_edit$year)
+
+levy_pvia_edit$month <- str_pad(levy_pvia_edit$month, width = 2, side = "left", pad = "0")
+levy_pvia_edit$day <- str_pad(levy_pvia_edit$day, width = 2, side = "left", pad = "0")
+
+levy_pvia_edit <- levy_pvia_edit %>% 
+  unite(date, c(year, month, day), sep = "-") %>% 
+  mutate(date = as.Date(date, "%Y-%m-%d"))
 

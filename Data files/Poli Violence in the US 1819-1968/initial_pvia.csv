@@ -1,0 +1,160 @@
+date,city,perpetrator 1,perpetrator 2,fatalities,injured,target type 1,target type 2,reason
+2017-06-14,Alexandria,Anti-Republican extremists,NA,1,6,Government (General),NA,NA
+2016-12-15,Dallas,Anti-Semitic extremists,NA,0,1,Journalists & Media,NA,NA
+2016-06-18,Las Vegas,Anti-Trump extremists,NA,0,0,Private Citizens & Property,NA,NA
+1997-10-28,Fairport,Army of God,NA,0,0,Abortion Related,NA,NA
+1997-04-08,Urbana,Unknown,NA,0,0,Government (General),NA,NA
+1996-12-18,New Orleans,Anti-Abortion extremists,NA,0,1,Abortion Related,NA,NA
+1996-01-01,Opelika,Unknown,NA,0,1,Religious Figures/Institutions,NA,NA
+1995-12-07,Fayetteville,Unknown,NA,0,0,Unknown,NA,NA
+1995-01-28,Huntington,Unknown,NA,0,0,Abortion Related,NA,NA
+1994-10-29,Washington,Unknown,NA,0,0,Government (General),NA,NA
+1994-07-29,Pensacola,Anti-Abortion extremists,NA,2,1,Abortion Related,NA,NA
+1994-07-19,Jackson,Unknown,NA,0,0,Journalists & Media,NA,NA
+1994-05-29,Riverside,Unknown,NA,0,3,Religious Figures/Institutions,NA,NA
+1994-05-29,New York City,Unknown,NA,1,0,Business,NA,NA
+1994-05-18,New York City,Unknown,NA,0,0,Journalists & Media,NA,NA
+1994-04-05,New York City,Unknown,NA,0,1,Private Citizens & Property,NA,NA
+1994-03-09,Miami,Unknown,NA,1,0,Private Citizens & Property,NA,NA
+1992-12-11,San Diego,Unknown,NA,0,0,Police,NA,NA
+1992-08-29,San Juan,Unknown,NA,0,0,Government (General),NA,NA
+1992-03-11,New York City,Medellin Drug Cartel,Cali Narcotics Cartel,1,0,Journalists & Media,NA,NA
+1992-02-18,Boston,Unknown,NA,1,0,Educational Institution,NA,NA
+1992-01-14,Houston,Anti-Abortion extremists,NA,0,1,Abortion Related,NA,NA
+1991-03-15,Miami,Tontons Macoutes,NA,1,0,Journalists & Media,NA,NA
+1991-02-18,Miami,Tontons Macoutes,NA,1,0,Journalists & Media,NA,NA
+1990-11-05,New York City,Muslim extremists,NA,1,0,Terrorists/Non-state Militia,NA,NA
+1990-09-22,Bailey's Crossroads,Unknown,NA,2,0,Journalists & Media,NA,NA
+1990-02-08,Knoxville,Unknown,NA,1,0,Educational Institution,NA,NA
+1990-01-30,Tucson,Jamaat-al-Fuqra,NA,1,0,Religious Figures/Institutions,NA,NA
+1989-12-22,Hagerstown,Unknown,NA,0,1,Government (General),NA,NA
+1989-12-18,Savannah,Americans for a Competent Federal Judicial System,NA,1,0,Business,NA,NA
+1989-11-22,Seven Corners,Unknown,NA,1,0,Journalists & Media,NA,NA
+1989-08-20,Fresno,Unknown,NA,0,1,Private Citizens & Property,NA,NA
+1989-08-19,Fresno,Unknown,NA,0,1,Private Citizens & Property,NA,NA
+1989-03-10,San Diego,Unknown,NA,0,1,Military,NA,NA
+1986-04-29,San Juan,Organization of Volunteers for the Puerto Rican Revolution,NA,1,0,Police,NA,NA
+1986-03-18,Westminster,Vietnamese Refugees,NA,0,1,Private Citizens & Property,NA,NA
+1985-11-06,San Juan,Organization of Volunteers for the Puerto Rican Revolution,NA,0,1,Military,NA,NA
+1985-10-11,Santa Ana,Unknown,NA,1,0,Private Citizens & Property,NA,NA
+1985-08-15,Paterson,Unknown,NA,0,4,Private Citizens & Property,NA,NA
+1984-06-18,Denver,The Order (Silent Brotherhood),NA,1,0,Journalists & Media,NA,NA
+1984-05-28,San Francisco,Vietnamese Organization to Exterminate Communists and Restore the Nation,NA,1,1,Private Citizens & Property,NA,NA
+1984-01-27,Dallas,Unknown,NA,1,0,Government (General),NA,NA
+1983-09-21,New York City,Unknown,NA,1,0,Journalists & Media,NA,NA
+1983-08-08,Canton,Jewish Defense League (JDL),NA,1,0,Religious Figures/Institutions,NA,NA
+1983-08-08,Detroit,Jewish Defense League (JDL),NA,0,0,Religious Figures/Institutions,NA,NA
+1982-10-22,Philadelphia,Justice Commandos for the Armenian Genocide,NA,0,0,Government (Diplomatic),NA,NA
+1982-08-02,Houston,Vietnamese Organization to Exterminate Communists and Restore the Nation,NA,1,0,Journalists & Media,NA,NA
+1982-06-10,San Juan,Revolutionary Labor Commandos,NA,0,0,Private Citizens & Property,NA,NA
+1982-05-22,Stamford,Iranians,NA,1,0,Religious Figures/Institutions,NA,NA
+1982-05-18,San Juan,Macheteros,NA,1,2,Police,NA,NA
+1982-05-16,San Juan,Macheteros,NA,1,3,Military,NA,NA
+1982-05-04,Somerville,Justice Commandos for the Armenian Genocide,NA,1,0,Government (Diplomatic),NA,NA
+1982-01-28,Los Angeles,Justice Commandos for the Armenian Genocide,NA,1,0,Government (Diplomatic),NA,NA
+1981-08-17,San Juan,Unknown,NA,1,1,Military,NA,NA
+1981-07-21,San Francisco,Anti-Communist Viets Organization,Vietnamese Organization to Exterminate Communists and Restore the Nation,1,0,Journalists & Media,NA,NA
+1981-07-17,Ogden,Qaddafi loyalists,NA,1,0,Private Citizens & Property,NA,NA
+1981-05-05,Carolina,Unknown,NA,0,1,Government (General),NA,NA
+1981-04-21,Miami,Unknown,NA,0,1,Journalists & Media,NA,NA
+1980-12-17,Los Angeles,Croatian Liberation Army,NA,0,0,Government (General),NA,NA
+1980-10-14,Fort Collins,Gaddafi loyalists,NA,1,0,Private Citizens & Property,NA,NA
+1980-10-06,Los Angeles,Justice Commandos for the Armenian Genocide,NA,0,1,Government (Diplomatic),NA,NA
+1980-09-12,New York City,Omega-7,NA,1,0,Government (Diplomatic),NA,NA
+1980-07-31,Los Angeles,Black American Moslems,NA,1,0,Private Citizens & Property,NA,NA
+1980-07-30,Torrance,Worldwide Organization of Native Taiwanese,NA,1,0,Private Citizens & Property,NA,NA
+1980-07-22,Bethesda,Black Muslims,NA,1,0,Private Citizens & Property,NA,NA
+1980-05-29,Fort Wayne,White extremists,NA,0,1,NGO,NA,NA
+1979-11-25,Union City,Omega-7,NA,1,0,Private Citizens & Property,NA,NA
+1979-06-13,Mineola,The Jewish Execution with Silence,NA,0,1,Private Citizens & Property,NA,NA
+1979-06-04,Arlington,International Committee Against Nazism,Jewish Action Movement,0,0,Government (General),NA,NA
+1979-06-01,Chicago,International Committee Against Nazism,Jewish Action Movement,0,0,Government (General),NA,NA
+1979-04-28,San Juan,Omega-7,NA,1,0,Business,NA,NA
+1979-04-08,San Juan,Omega-7,NA,1,0,Business,NA,NA
+1979-04-06,Cerritos,Unknown,NA,0,0,Private Citizens & Property,NA,NA
+1979-04-06,Rossmore,Unknown,NA,0,0,Private Citizens & Property,NA,NA
+1978-12-07,San Juan,Macheteros,NA,1,0,Police,NA,NA
+1978-11-22,Glendale,Otpor,NA,1,0,Private Citizens & Property,NA,NA
+1978-09-28,Greenburgh,Otpor,NA,1,0,Private Citizens & Property,NA,NA
+1978-03-06,Lawrenceville,White extremists,NA,0,2,Private Citizens & Property,NA,NA
+1977-10-03,Los Angeles,Armenian Secret Army for the Liberation of Armenia,NA,0,0,Private Citizens & Property,NA,NA
+1977-07-25,Rockville,Unknown,NA,0,0,Private Citizens & Property,NA,NA
+1977-06-25,Pittsburgh,Croatian Nationalists,NA,0,1,Private Citizens & Property,NA,NA
+1977-01-25,San Francisco,New World Liberation Front (NWLF),NA,0,1,Government (General),NA,NA
+1977-01-19,New York City,Independent Armed Revolutionary Commandos (CRIA),NA,0,1,Government (General),NA,NA
+1977-01-19,Unknown,Independent Armed Revolutionary Commandos (CRIA),NA,0,1,Government (General),NA,NA
+1977-01-19,New York City,Independent Armed Revolutionary Commandos (CRIA),NA,0,1,Government (General),NA,NA
+1977-01-07,Miami,Unknown,NA,1,0,Terrorists/Non-state Militia,NA,NA
+1976-10-25,San Juan,Unknown,NA,NA,NA,Government (General),NA,NA
+1976-08-19,Washington,Unknown,NA,0,0,Government (Diplomatic),NA,NA
+1976-08-13,Washington,Unknown,NA,0,0,Government (Diplomatic),NA,NA
+1976-07-26,New York City,Cypriot,NA,0,0,Government (General),NA,NA
+1976-07-01,San Francisco,New World Liberation Front (NWLF),NA,0,1,Government (Diplomatic),NA,NA
+1976-01-10,San Francisco,New World Liberation Front (NWLF),NA,0,1,Government (General),NA,NA
+1976-01-10,San Francisco,New World Liberation Front (NWLF),NA,0,1,Government (General),NA,NA
+1975-12-29,Chicago,Croatian Nationalists,NA,0,1,Government (Diplomatic),NA,NA
+1975-10-31,Miami,Secret Organization Zero,NA,1,0,Private Citizens & Property,NA,NA
+1975-09-22,San Francisco,Left-wing extremists,NA,0,1,Government (General),NA,NA
+1975-09-19,Dayton,White extremists,NA,1,0,Private Citizens & Property,NA,NA
+1975-09-05,Sacramento,Supporters of Charles Manson,NA,0,0,Government (General),NA,NA
+1975-08-16,El Monte,Neo-Nazi extremists,NA,1,0,Violent Political Party,NA,NA
+1975-06-08,San Francisco,Tribal Thumb,NA,2,0,Private Citizens & Property,Educational Institution,NA
+1975-02-21,Miami,Movement for Cuban Justice (Pragmatistas),NA,1,0,Government (General),NA,NA
+1974-12-29,Philadelphia,Black Muslims,NA,1,0,Private Citizens & Property,NA,NA
+1974-04-13,Miami,Secret Organization Zero,NA,1,0,Government (General),NA,NA
+1974-02-04,New York City,Black Muslims,NA,4,0,Religious Figures/Institutions,Private Citizens & Property,NA
+1973-11-26,Gadsden,Ku Klux Klan,NA,1,0,Private Citizens & Property,NA,NA
+1973-11-06,Oakland,Symbionese Liberation Army (SLA),NA,1,0,Educational Institution,NA,NA
+1973-10-18,Newark,Black Muslims,NA,NA,NA,North America,Assassination,NA
+1973-09-18,Edison,Black Muslims,2,NA,NA,NA,Assassination,NA
+1973-09-04,Newark,Unknown,NA,1,0,Religious Figures/Institutions,NA,NA
+1973-07-01,Bethesda,Popular Front for the Liberation of Palestine (PFLP),NA,1,0,Government (Diplomatic),NA,NA
+1973-05-01,New York City,Unknown,NA,1,0,NGO,NA,NA
+1973-01-27,Los Angeles,Armenians,NA,2,0,Government (Diplomatic),NA,NA
+1972-10-14,New York City,Black September,NA,0,1,Private Citizens & Property,NA,NA
+1972-09-28,Washington,Black September,NA,0,0,Government (Diplomatic),NA,NA
+1972-09-20,New York City,Black September,NA,0,0,Government (Diplomatic),NA,NA
+1972-09-20,New York City,Black September,NA,0,0,Government (Diplomatic),NA,NA
+1972-09-20,New York City,Black September,NA,0,0,Government (Diplomatic),NA,NA
+1972-05-27,Jersey City,Unknown,NA,1,0,Violent Political Party,NA,NA
+1972-02-01,El Monte,Jewish Defense League (JDL),NA,0,0,Private Citizens & Property,NA,NA
+1972-01-27,New York City,Black Liberation Army,NA,2,0,Police,NA,NA
+1972-01-06,San Diego,Secret Army Organization,NA,0,0,Private Citizens & Property,NA,NA
+1971-11-03,Atlanta,Black Liberation Army,NA,1,0,Police,NA,NA
+1971-05-21,New York City,Black Liberation Army,NA,2,0,Police,NA,NA
+1971-04-29,Berkeley,Left-Wing Militants,NA,1,0,Military,NA,NA
+1971-04-17,New York City,Black Panthers,NA,1,0,Violent Political Party,NA,NA
+1970-08-15,West Point,White extremists,NA,1,0,Private Citizens & Property,NA,NA
+1970-07-26,St. Louis,Unknown,NA,1,0,Business,NA,NA
+1970-07-04,San Francisco,Strikers,NA,0,1,Private Citizens & Property,NA,NA
+1970-06-09,Newark,Black Nationalists,NA,0,1,Private Citizens & Property,NA,NA
+1970-06-02,Joliet,Unknown,NA,0,1,Private Citizens & Property,Government (General),NA
+1970-04-24,New York City,The World United Formosans for Independence (WUFI),NA,0,0,Government (Diplomatic),NA,NA
+1970-03-20,Detroit,White extremists,NA,1,0,Private Citizens & Property,NA,NA
+1970-03-05,San Juan,Armed Commandos of Liberation,Armed Revolutionary Independence Movement (MIRA),2,0,Military,NA,NA
+1954-03-02,NA,Primary political affiliation,Political group,NA,NA,President,NA,NA
+1954-03-02,NA,Primary political affiliation,Political group,NA,NA,Other Individual,Political group,Other
+1955-09-20,NA,Federal office holder,NA,NA,NA,Other Individual,Social protest group,Racial antagonism
+1960-01-17,NA,NA,Racial group,NA,NA,Other Individual,Racial group,Racial antagonism
+1964-12-06,NA,NA,NA,3,NA,Three,Social protest group,Differences in social viewpoints
+1964-09-04,NA,NA,NA,NA,NA,Other Individual,NA,NA
+1964-08-15,NA,Primary racial affiliation,Racial group,NA,NA,Other Individual,NA,Racial antagonism
+1965-03-04,NA,Primary racial affiliation,Racial group,NA,NA,Leader of racial group,Racial group,Racial antagonism
+1966-09-02,NA,NA,NA,NA,NA,Other Individual,NA,NA
+1968-09-03,NA,NA,Racial group,1,NA,NA,Racial group,Racial antagonism
+1948-04-20,NA,unspecified,NA,0,1,trade un. grp/leader,NA,economic
+1950-11-01,NA,extrmst pol. grp,NA,0,0,chief of state or mil. junta,NA,ethnic
+1954-03-01,NA,extrmst pol. grp,NA,0,5,legislative (natl),NA,political
+1959-04-12,NA,unspecified,NA,0,1,state governor,NA,political
+1961-04-02,NA,unspecified,NA,0,0,chief of state or mil. junta,NA,political
+1962-12-02,NA,unspecified,NA,0,0,trade un. grp/leader,NA,political
+1963-04-12,NA,unspecified,NA,0,0,oth. natl govt offl,NA,political
+1963-05-12,NA,unspecified,NA,0,0,soc. or pol. mvmt/ldr,NA,educational
+1963-06-13,NA,unspecified,NA,1,0,soc. or pol. mvmt/ldr,NA,ethnic
+1963-11-23,NA,unspecified,NA,1,0,chief of state or mil. junta,NA,political
+1963-11-24,NA,unspecified,NA,1,0,unspecified,NA,political
+1965-02-15,NA,unspecified,NA,0,0,soc. or pol. mvmt/ldr,NA,ethnic
+1965-02-22,NA,unspecified,NA,1,0,soc. or pol. mvmt/ldr,NA,political
+1965-03-21,NA,unspecified,NA,0,0,soc. or pol. mvmt/ldr,NA,educational
+1965-07-20,NA,big bus./mngrs/professional,NA,0,0,oth. natl govt offl,NA,political
+1967-08-26,NA,unspecified,NA,1,0,pol. party/leader,NA,political
