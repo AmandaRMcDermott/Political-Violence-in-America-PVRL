@@ -67,18 +67,22 @@ pl+labs(title = "Victims of Assassination Over Time")
 
 
 
-initial_pvia %>% filter(
-  `target type 1` != "Unknown",
-  `target type 1` != "Military",
-  `target type 1` != "Police",
-  `target type 1` != "Three",
-  `target type 1` != "Educational Institution",
-  `target type 1` != "North America",
-  `target type 1` != "Religious Figures/Institutions",
-  `target type 1` != "Terrorists/Non-state Militia",
-  `target type 1` != "unspecified"
+initial_pvia_edit%>% filter(
+  target_type_1 != "Unknown",
+  target_type_1 != "Military",
+  target_type_1 != "Police",
+  target_type_1 != "Three",
+  target_type_1 != "Educational Institution",
+  target_type_1 != "North America",
+  target_type_1 != "Religious Figures/Institutions",
+  target_type_1 != "Terrorists/Non-state Militia",
+  target_type_1 != "unspecified"
 ) %>% 
-  group_by(`target type 1`) %>% 
+  ggplot(., aes(x = date, y = fatalities, color = target_type_1)) + geom_point(size = .9) + geom_jitter(size = .9) + theme(legend.position = "bottom")
+
+  
+  
+  group_by(target_type_1) %>% 
   summarize(total = sum(fatalities)) %>% 
   arrange(desc(total)) %>% 
   na.omit() %>% 
