@@ -1,11 +1,11 @@
-newspaper_ref,date_issued,ref_page_num,City,State,target type 1,number_perpetrator,weapon type 1,group_violence,reason,injury_target,injury_group_target,fatalities_target,injury_perpetrator,injury_group_perpetrator,fatalities_perpetrator,target type 2,perpetrator 1,perpetrator 2,target_name,perpetrator_name,Comments
-New York Times,3/1/54,16,Washington,DC,Representative,4,pistol,"Deadly Assault (lynching, homocide)",Political,5,0,0,0,0,0,Government,Puerto Rican Nationalist,Political group,"Alvin Bentley, Clifford Davis, Ben Jensen, George Fallon, Kenneth Roberts","Lolita Lebron, Rafael Cancel Miranda, Andres Figueroa Cordero, Irvin Flores Rodriguez",
-New York Times,3/2/54,1,,,Other Individual,4,pistol,"Deadly Assault (lynching, homocide)",Other,NA,5,NA,4,97,97,Political group,Primary political affiliation,Political group,,,
-New York Times,9/19/55,32,Sumner,Mississippi,Other Individual,2,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,1,4,97,0,Racial group,NA,NA,Emmett Louis Till,"Roy Bryant, J. W. Milam ",
-New York Times,1/17/60,2,,,Other Individual,NA,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,NA,9,97,97,Racial group,NA,Racial group,,,
-New York Times,6/21/64,44,Philadelphia,Mississippi,Social activist,8,pistol,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,3,8,98,98,Social activist,Ku Klux Klan,Racial group,"James Chaney, Andrew Goodman, Mickey Schwerner",Cecil Price,Freedom Summer murders
-New York Times,7/18/64,11,New York City,New York,Racial group,1,pistol,"Deadly Assault (lynching, homocide)",NA,"Wound, fatal",99,1,8,98,99,NA,Police,NA,James Powell,Thomas Gilligan,Harlem Riots of 1964
-New York Times,8/15/64,9,Athens,Georgia,Racial group,4,pistol,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,1,4,97,97,NA,Ku Klux Klan,Racial group,Lemuel Penn,"James Lackey, Cecill William Myers, Joseph Howard Sims, Herbert Guest",
-New York Times,2/21/65,14,New York City,New York,Leader of racial group,3,pistol,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,1,9,97,97,Racial group,Nation of Islam,,Malcom X,"Talmadge Hayer, Norman 3X Butler, Thomas 15X Johnson",
-New York Times,9/2/66,1,Dayton,Ohio,Racial group,NA,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,1,9,98,98,NA,NA,NA,,,"Dayton Riots, 23 injured"
-New York Times,9/1/68,25,Berea,Kentucky,Racial group,8,pistol,"Deadly Assault (lynching, homocide)",Racial antagonism,NA,99,1,NA,99,1,Racial group,National States' Rights Party,,Lenoa John Boggs,Elza Rucker,No confirmation on who started the attack
+newspaper_ref,date_issued,ref_page_num,target type 1,number_perpetrator,weapon type 1,group_violence,reason,injury_target,injury_group_target,fatalities_target,injury_perpetrator,injury_group_perpetrator,fatalities_perpetrator,target type 2,perpetrator 1,perpetrator 2
+New York Times,1954-03-02,16,President,2,NA,"Deadly Assault (lynching, homocide)",NA,None,99,NA,4,97,99,NA,Primary political affiliation,Political group
+New York Times,1954-03-02,1,Other Individual,4,pistol,"Deadly Assault (lynching, homocide)",Other,"NA",5,NA,4,97,97,Political group,Primary political affiliation,Political group
+New York Times,1955-09-20,32,Other Individual,2,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,NA,4,97,97,Social protest group,Federal office holder,NA
+New York Times,1960-01-17,2,Other Individual,NA,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,NA,9,97,97,Racial group,NA,Racial group
+New York Times,1964-12-06,44,Three,NA,NA,"Deadly Assault (lynching, homocide)",Differences in social viewpoints,"Wound, fatal",99,3,8,98,98,Social protest group,NA,NA
+New York Times,1964-09-04,11,Other Individual,NA,pistol,"Deadly Assault (lynching, homocide)",NA,"Wound, fatal",99,NA,8,98,99,NA,NA,NA
+New York Times,1964-08-15,9,Other Individual,4,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,NA,4,97,97,NA,Primary racial affiliation,Racial group
+New York Times,1965-03-04,14,Leader of racial group,3,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"Wound, fatal",99,NA,9,97,97,Racial group,Primary racial affiliation,Racial group
+New York Times,1966-09-02,1,Other Individual,3,NA,"Deadly Assault (lynching, homocide)",NA,"Wound, fatal",99,NA,9,98,98,NA,NA,NA
+New York Times,1968-09-03,25,NA,NA,NA,"Deadly Assault (lynching, homocide)",Racial antagonism,"NA",99,1,9,99,1,Racial group,NA,Racial group

@@ -4,15 +4,31 @@ library(readr)
 library(asciiSetupReader)
 
 # Read in data from the GTD
-pvia <- read_csv("https://raw.githubusercontent.com/Glacieus/Political-Violence-in-America-PVRL/master/Data%20files/GTD-Export.csv")
+#pvia <- read_csv("https://raw.githubusercontent.com/Glacieus/Political-Violence-in-America-PVRL/master/Data%20files/GTD-Export.csv")
 
-# change column names to lowercase
-names(pvia)[1:23] <- tolower(names(pvia))[1:23]
+# change col names to lowercase
+names(globalterrorismdb_0718dist) <- tolower(names(globalterrorismdb_0718dist))
 
-pvia$date <- as.Date(pvia$date, "%Y-&m-%d")
+GTD <- globalterrorismdb_0718dist %>% 
+  filter(country_txt == "United States", crit1 == 1, attacktype1 == 1) %>% 
+  select(iyear, imonth, iday, provstate, city, location, summary, targtype1_txt, targsubtype1_txt, corp1, target1, natlty1_txt, gname, motive, nkill,nkillus, nkillter, nwound, addnotes, scite1, scite2, scite3) %>% 
+  unite(date, c(iyear, imonth, iday)) %>% 
+  transform(date = as.Date(date, "%Y_%m_%d"))
 
-pvia <- pvia %>% 
-  select(2, 4:15, 20:22)
+# Redo date column for Levy's dataset
+levy_pvia_edit <- levy_pvia_edit %>% 
+  separate(date_issued, c("month", "day", "year"), sep = "/")
+
+levy_pvia_edit$year <- paste0("19", levy_pvia_edit$year)
+
+levy_pvia_edit$month <- str_pad(levy_pvia_edit$month, width = 2, side = "left", pad = "0")
+levy_pvia_edit$day <- str_pad(levy_pvia_edit$day, width = 2, side = "left", pad = "0")
+
+levy_pvia_edit <- levy_pvia_edit %>% 
+  unite(date, c(year, month, day), sep = "-") %>% 
+  mutate(date = as.Date(date, "%Y-%m-%d"))
+
+write_csv(GTD_t, "GTD.csv")
 
 # Read in data from the Data Bank of Assassinations (ICPSR)
 pvia_2 <- asciiSetupReader::spss_ascii_reader("DBA_Data.txt", "DBA_Setup.sps")
@@ -53,7 +69,6 @@ pvia_2$fatalities <- tolower(pvia_2[,10])
 
 # Import Poli Violence in the US data
 pvia_5 <- asciiSetupReader::spss_ascii_reader("00080-0001-Data.txt", "00080-0001-Setup.sps" )
-
 
 
 # change column names to lowercase
