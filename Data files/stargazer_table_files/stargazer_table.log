@@ -1,0 +1,1069 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 APR 2019 00:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**stargazer_table.tex
+(./stargazer_table.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\MT@toks=\toks23
+\MT@count=\count100
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen112
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count101
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 913.
+LaTeX Info: Redefining \lslig on input line 913.
+\MT@outer@space=\skip46
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks24
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen121
+\Hy@linkcounter=\count105
+\Hy@pagecounter=\count106
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count107
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count108
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen122
+\Fld@menulength=\count109
+\Field@Width=\dimen123
+\Fld@charsize=\dimen124
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count110
+\c@Item=\count111
+\c@Hfootnote=\count112
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count113
+\c@bookmark@seq@number=\count114
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip47
+)
+Package hyperref Info: Option `unicode' set `true' on input line 30.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 30.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count115
+\FV@InFile=\read1
+\FV@TabBox=\box28
+\c@FancyVerbLine=\count116
+\FV@StepNumber=\count117
+\FV@OutFile=\write3
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip48
+\fb@frw=\dimen125
+\fb@frh=\dimen126
+\FrameRule=\dimen127
+\FrameSep=\dimen128
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grffile.sty
+Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip49
+\thanksmargin=\skip50
+\droptitle=\skip51
+) (./stargazer_table.aux)
+\openout1 = `stargazer_table.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 128.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 128.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \microtypecontext on input line 128.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(72.26999pt, 650.43001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 469.75502pt, 72.26999pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=650.43001pt
+* \textheight=469.75502pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 128.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count118
+)
+LaTeX Info: Redefining \ref on input line 128.
+LaTeX Info: Redefining \pageref on input line 128.
+LaTeX Info: Redefining \nameref on input line 128.
+(./stargazer_table.out) (./stargazer_table.out)
+\@outlinefile=\write4
+\openout4 = `stargazer_table.out'.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen131
+\scratchbox=\box30
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen132
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 131.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (5024.8035pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [1] "c(\"100%\", \"33%\", \"97%\", \"69%\", \"99%\", \"99
+%\", \"99%\", \"100%\", \"75%\", \"100%\", \"98%\", \"93%\", \"100%\", \"99%\",
+ \"100%\", \"0%\", \"100%\", \"100%\", \"70%\", \"100%\", \"91%\", \"91%\", \"9
+9%\", \"100%\", \"100%\", \"100%\", \"100%\", \"100%\", \"0%\", \"88%\", \"57%\
+", \"100%\", \"86%\", \"100%\", \"86%\", \"100%\", \"100%\", \"100%\", \"84%\",
+ \"41%\", \"87%\", \"100%\", \"100%\", \"100%\", \"85%\", \"60%\", \"70%\", \"1
+00%\", \"95%\", \"93%\", \"70%\", \"86%\", \"91%\", \"100%\", \"1%\", \"100%\",
+ \"97%\", \"88%\", \"100%\", \"100%\", \"CITY\", NA, \"100%\", \"100%\", \"98%\
+", \"99%\", \"82%\", \"0%\", \"100%\", \n\"100%\", \"0%\", \"85%\", \"74%\", \"
+73%\", \"90%\", \"100%\", \"100%\", \"100%\", \"100%\", \"97%\", \"30%\", \"100
+%\", \"100%\", \"44%\", \"96%\", \"100%\", \"94%\", \"93%\", \"100%\", \"100%\"
+, \"95%\", \"20%\", \"100%\", \"85%\", \"100%\", \"100%\", \"56%\", \"100%\", \
+"100%\", \"100%\", \"100%\", \"68%\", \"99%\", \"71%\", \"96%\", \"100%\", \"65
+%\", \"100%\", \"100%\", \"100%\", \"100%\", \"75%\", \"77%\", \"98%\")"[] 
+ []
+
+
+Overfull \hbox (4883.05391pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [2] "c(\"100%\", \"45%\", \"79%\", \"72%\", \"68%\", \"35
+%\", \"88%\", \"82%\", \"87%\", \"100%\", \"81%\", \"90%\", \"100%\", \"65%\", 
+\"89%\", \"100%\", \"100%\", \"98%\", \"64%\", \"100%\", \"56%\", \"78%\", \"94
+%\", \"100%\", \"100%\", \"100%\", \"100%\", \"91%\", \"91%\", \"83%\", \"84%\"
+, \"85%\", \"41%\", \"85%\", \"41%\", \"75%\", \"94%\", \"98%\", \"70%\", \"52%
+\", \"64%\", \"88%\", \"48%\", \"90%\", \"80%\", \"36%\", \"66%\", \"95%\", \"8
+1%\", \"83%\", \"62%\", \"47%\", \"73%\", \"100%\", \"57%\", \"36%\", \"82%\", 
+\"77%\", \"100%\", \"33%\", \"100%\", NA, \"96%\", \"65%\", \"94%\", \"100%\", 
+\"49%\", \"100%\", \"100%\", \"100%\", \n\"84%\", \"72%\", \"53%\", \"62%\", \"
+65%\", \"78%\", \"98%\", \"95%\", \"78%\", \"87%\", \"47%\", \"54%\", \"100%\",
+ \"21%\", \"92%\", \"86%\", \"86%\", \"78%\", \"84%\", \"60%\", \"50%\", \"70%\
+", \"81%\", \"77%\", \"87%\", \"96%\", \"39%\", \"100%\", \"81%\", \"100%\", \"
+93%\", \"6%\", \"62%\", \"63%\", \"72%\", \"100%\", \"7%\", \"95%\", \"100%\", 
+\"98%\", \"94%\", \"55%\", \"22%\", \"92%\")"[] 
+ []
+
+
+Overfull \hbox (4683.55449pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [3] "c(\"0%\", \"47%\", \"49%\", \"82%\", \"44%\", \"87%\
+", \"18%\", \"7%\", \"50%\", \"0%\", \"38%\", \"56%\", \"0%\", \"46%\", \"26%\"
+, \"0%\", \"15%\", \"14%\", \"51%\", \"10%\", \"67%\", \"55%\", \"14%\", \"0%\"
+, \"6%\", \"18%\", \"26%\", \"24%\", \"50%\", \"36%\", \"30%\", \"12%\", \"89%\
+", \"12%\", \"89%\", \"53%\", \"35%\", \"2%\", \"43%\", \"65%\", \"35%\", \"13%
+\", \"75%\", \"16%\", \"13%\", \"48%\", \"70%\", \"29%\", \"48%\", \"41%\", \"3
+5%\", \"32%\", \"40%\", \"0%\", \"84%\", \"52%\", \"50%\", \"47%\", \"0%\", \"8
+%\", \"100%\", NA, \"61%\", \"58%\", \"14%\", \"1%\", \"64%\", \"0%\", \"21%\",
+ \"0%\", \"83%\", \"66%\", \"68%\", \"66%\", \n\"65%\", \"46%\", \"75%\", \"84%
+\", \"36%\", \"30%\", \"0%\", \"84%\", \"18%\", \"91%\", \"56%\", \"39%\", \"58
+%\", \"66%\", \"46%\", \"75%\", \"94%\", \"71%\", \"50%\", \"49%\", \"54%\", \"
+3%\", \"53%\", \"0%\", \"32%\", \"24%\", \"5%\", \"100%\", \"71%\", \"73%\", \"
+48%\", \"4%\", \"98%\", \"20%\", \"0%\", \"23%\", \"39%\", \"77%\", \"44%\", \"
+50%\")"[] 
+ []
+
+
+Overfull \hbox (4741.30432pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [4] "c(\"0%\", \"100%\", \"52%\", \"100%\", \"92%\", \"88
+%\", \"47%\", \"10%\", \"83%\", \"0%\", \"46%\", \"55%\", \"0%\", \"76%\", \"32
+%\", \"0%\", \"31%\", \"10%\", \"69%\", \"32%\", \"69%\", \"68%\", \"17%\", \"0
+%\", \"56%\", \"90%\", \"36%\", \"80%\", \"59%\", \"50%\", \"42%\", \"47%\", \"
+96%\", \"47%\", \"96%\", \"72%\", \"39%\", \"46%\", \"85%\", \"72%\", \"77%\", 
+\"29%\", \"49%\", \"26%\", \"53%\", \"73%\", \"81%\", \"67%\", \"64%\", \"27%\"
+, \"61%\", \"57%\", \"47%\", \"0%\", \"79%\", \"38%\", \"53%\", \"53%\", \"0%\"
+, \"25%\", \"0%\", NA, \"52%\", \"81%\", \"39%\", \"10%\", \"75%\", \"0%\", \"3
+8%\", \"0%\", \"100%\", \"100%\", \"99%\", \n\"76%\", \"76%\", \"90%\", \"93%\"
+, \"100%\", \"57%\", \"36%\", \"88%\", \"97%\", \"41%\", \"99%\", \"68%\", \"84
+%\", \"83%\", \"90%\", \"83%\", \"86%\", \"87%\", \"91%\", \"78%\", \"76%\", \"
+82%\", \"42%\", \"69%\", \"0%\", \"39%\", \"21%\", \"7%\", \"100%\", \"94%\", \
+"91%\", \"54%\", \"0%\", \"100%\", \"67%\", \"0%\", \"47%\", \"90%\", \"88%\", 
+\"69%\", \"66%\")"[] 
+ []
+
+
+Overfull \hbox (5003.80356pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [5] "c(\"96%\", \"58%\", \"92%\", \"69%\", \"99%\", \"93%
+\", \"99%\", \"95%\", \"100%\", \"100%\", \"89%\", \"0%\", \"100%\", \"100%\", 
+\"100%\", \"0%\", \"100%\", \"90%\", \"94%\", \"100%\", \"95%\", \"96%\", \"99%
+\", \"100%\", \"100%\", \"100%\", \"100%\", \"89%\", \"0%\", \"86%\", \"57%\", 
+\"100%\", \"87%\", \"100%\", \"87%\", \"100%\", \"100%\", \"100%\", \"95%\", \"
+64%\", \"92%\", \"90%\", \"100%\", \"100%\", \"80%\", \"79%\", \"73%\", \"100%\
+", \"95%\", \"96%\", \"83%\", \"86%\", \"89%\", \"99%\", \"1%\", \"100%\", \"96
+%\", \"88%\", \"100%\", \"100%\", \"0%\", NA, \"73%\", \"100%\", \"96%\", \"91%
+\", \"100%\", \"0%\", \"100%\", \n\"100%\", \"0%\", \"85%\", \"100%\", \"100%\"
+, \"94%\", \"100%\", \"100%\", \"99%\", \"100%\", \"93%\", \"13%\", \"100%\", \
+"100%\", \"93%\", \"97%\", \"100%\", \"91%\", \"96%\", \"100%\", \"100%\", \"96
+%\", \"100%\", \"100%\", \"96%\", \"100%\", \"100%\", \"65%\", \"100%\", \"100%
+\", \"100%\", \"100%\", \"78%\", \"99%\", \"71%\", \"96%\", \"100%\", \"100%\",
+ \"100%\", \"93%\", \"100%\", \"99%\", \"100%\", \"99%\", \"100%\")"[] 
+ []
+
+
+Overfull \hbox (4788.55418pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [6] "c(\"57%\", \"53%\", \"52%\", \"67%\", \"72%\", \"28%
+\", \"71%\", \"24%\", \"67%\", \"73%\", \"59%\", \"93%\", \"57%\", \"98%\", \"8
+2%\", \"84%\", \"81%\", \"89%\", \"80%\", \"97%\", \"71%\", \"88%\", \"91%\", \
+"92%\", \"33%\", \"88%\", \"59%\", \"46%\", \"60%\", \"25%\", \"73%\", \"81%\",
+ \"42%\", \"81%\", \"42%\", \"70%\", \"54%\", \"48%\", \"81%\", \"45%\", \"60%\
+", \"64%\", \"38%\", \"61%\", \"53%\", \"65%\", \"54%\", \"70%\", \"63%\", \"42
+%\", \"55%\", \"25%\", \"54%\", \"70%\", \"57%\", \"31%\", \"63%\", \"75%\", \"
+86%\", \"20%\", \"100%\", NA, \"96%\", \"76%\", \"67%\", \"91%\", \"100%\", \"7
+1%\", \"87%\", \"78%\", \"0%\", \"70%\", \n\"92%\", \"71%\", \"66%\", \"76%\", 
+\"98%\", \"73%\", \"73%\", \"63%\", \"35%\", \"55%\", \"71%\", \"72%\", \"95%\"
+, \"97%\", \"75%\", \"80%\", \"84%\", \"78%\", \"54%\", \"86%\", \"52%\", \"86%
+\", \"89%\", \"84%\", \"42%\", \"100%\", \"95%\", \"43%\", \"58%\", \"25%\", \"
+83%\", \"89%\", \"71%\", \"92%\", \"44%\", \"94%\", \"85%\", \"94%\", \"91%\", 
+\"85%\", \"91%\", \"93%\")"[] 
+ []
+
+
+Overfull \hbox (4767.55424pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [7] "c(\"33%\", \"55%\", \"82%\", \"95%\", \"57%\", \"85%
+\", \"41%\", \"27%\", \"49%\", \"70%\", \"72%\", \"54%\", \"44%\", \"48%\", \"5
+8%\", \"47%\", \"43%\", \"39%\", \"51%\", \"39%\", \"34%\", \"30%\", \"31%\", \
+"22%\", \"92%\", \"84%\", \"88%\", \"88%\", \"94%\", \"78%\", \"72%\", \"44%\",
+ \"85%\", \"44%\", \"85%\", \"75%\", \"86%\", \"92%\", \"49%\", \"58%\", \"62%\
+", \"62%\", \"75%\", \"72%\", \"71%\", \"57%\", \"73%\", \"71%\", \"71%\", \"48
+%\", \"68%\", \"81%\", \"68%\", \"60%\", \"97%\", \"78%\", \"83%\", \"56%\", \"
+73%\", \"78%\", \"68%\", NA, \"79%\", \"49%\", \"69%\", \"50%\", \"0%\", \"19%\
+", \"56%\", \"36%\", \"100%\", \"61%\", \n\"66%\", \"79%\", \"86%\", \"51%\", \
+"75%\", \"96%\", \"69%\", \"75%\", \"0%\", \"76%\", \"80%\", \"74%\", \"59%\", 
+\"23%\", \"63%\", \"61%\", \"41%\", \"73%\", \"93%\", \"57%\", \"48%\", \"45%\"
+, \"47%\", \"59%\", \"74%\", \"5%\", \"36%\", \"70%\", \"14%\", \"95%\", \"50%\
+", \"59%\", \"50%\", \"49%\", \"91%\", \"45%\", \"50%\", \"42%\", \"51%\", \"46
+%\", \"14%\", \"31%\")"[] 
+ []
+
+
+Overfull \hbox (4830.55406pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [8] "c(\"100%\", \"100%\", \"95%\", \"94%\", \"93%\", \"9
+0%\", \"89%\", \"87%\", \"87%\", \"77%\", \"77%\", \"72%\", \"71%\", \"71%\", \
+"70%\", \"67%\", \"64%\", \"63%\", \"61%\", \"60%\", \"53%\", \"52%\", \"42%\",
+ \"35%\", \"100%\", \"100%\", \"99%\", \"100%\", \"100%\", \"98%\", \"98%\", \"
+96%\", \"96%\", \"96%\", \"96%\", \"95%\", \"95%\", \"94%\", \"93%\", \"93%\", 
+\"92%\", \"91%\", \"86%\", \"86%\", \"85%\", \"85%\", \"85%\", \"85%\", \"83%\"
+, \"83%\", \"83%\", \"82%\", \"82%\", \"81%\", \"79%\", \"75%\", \"73%\", \"72%
+\", \"70%\", \"70%\", \"19%\", NA, \"66%\", \"65%\", \"64%\", \"60%\", \"54%\",
+ \"45%\", \"41%\", \"16%\", \"100%\", \n\"100%\", \"99%\", \"99%\", \"97%\", \"
+94%\", \"93%\", \"100%\", \"92%\", \"91%\", \"90%\", \"86%\", \"85%\", \"85%\",
+ \"83%\", \"80%\", \"88%\", \"87%\", \"79%\", \"78%\", \"74%\", \"73%\", \"74%\
+", \"72%\", \"72%\", \"70%\", \"69%\", \"67%\", \"56%\", \"45%\", \"33%\", \"10
+0%\", \"77%\", \"76%\", \"67%\", \"21%\", \"92%\", \"91%\", \"78%\", \"73%\", \
+"70%\", \"59%\", \"54%\", \"30%\")"[] 
+ []
+
+
+Overfull \hbox (5329.30261pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ##  [9] "c(\"0.39\", \"0.61\", \"0.69\", \"0.59\", \"0.66\", 
+\"0.63\", \"0.56\", \"0.39\", \"0.61\", \"0.43\", \"0.57\", \"0.68\", \"0.35\",
+ \"0.75\", \"0.64\", \"0.57\", \"0.57\", \"0.57\", \"0.74\", \"0.54\", \"0.81\"
+, \"0.79\", \"0.63\", \"0.34\", \"0.45\", \"0.38\", \"0.44\", \"0.43\", \"0.4\"
+, \"0.49\", \"0.54\", \"0.5\", \"0.29\", \"0.5\", \"0.29\", \"0.67\", \"0.57\",
+ \"0.47\", \"0.7\", \"0.72\", \"0.61\", \"0.38\", \"0.65\", \"0.48\", \"0.61\",
+ \"0.78\", \"0.54\", \"0.50\", \"0.50\", \"0.57\", \"0.67\", \"0.73\", \"0.63\"
+, \"0.39\", \"0.58\", \"0.63\", \"0.53\", \"0.79\", \"0.56\", \"0.50\", \"67%\"
+, NA, \"0.60\", \"0.81\", \n\"0.51\", \"0.13\", \"0.35\", \"0.15\", \"0.42\", \
+"0.45\", \"0.46\", \"0.57\", \"0.55\", \"0.61\", \"0.66\", \"0.63\", \"0.60\", 
+\"0.47\", \"0.65\", \"0.52\", \"0.53\", \"0.58\", \"0.47\", \"0.81\", \"0.69\",
+ \"0.69\", \"0.52\", \"0.66\", \"0.65\", \"0.69\", \"0.77\", \"0.54\", \"0.5\",
+ \"0.66\", \"0.66\", \"0.41\", \"0.7\", \"0.41\", \"0.67\", \"0.59\", \"0.46\",
+ \"0.53\", \"0.58\", \"0.34\", \"0.46\", \"0.47\", \"0.43\", \"0.53\", \"0.23\"
+, \"0.31\", \"0.58\", \"0.69\", \"0.56\", \"0.6\")"[] 
+ []
+
+
+Overfull \hbox (2872.30975pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [10] "c(0.76, 0.25, 0.29, 0.39, 0.31, 0.24, 0.5, 0.59, 0.3
+1, 0.7, 0.4, 0.23, 0.78, 0.19, 0.43, 0.77, 0.59, 0.56, 0.16, 0.74, 0.1, 0.13, 0
+.36, 0.92, 0, 0.58, 0.58, 0.61, 0.46, 0.52, 0.37, 0.48, 0.34, 0.48, 0.34, 0.24,
+ 0.37, 0.51, 0.24, 0.18, 0.39, 0.63, 0.36, 0.57, 0.11, 0.17, 0, 0.44, 0.49, 0.3
+5, 0.39, 0.26, 0.34, 0.76, 0.27, 0.28, 0.44, 0.19, 0.84, 0.65, 0.4, NA, 0.27, 0
+.11, 0.54, 0.62, 0.8, 0.9, 0.46, 0.84, 0.12, 0.16, 0.22, 0.21, 0.3, 0.21, 0, 0.
+44, 0.29, 0.5, 0, 0.2, 0.55, 0.07, 0.21, 0.13, 0.27, 0.2, \n0.22, 0.16, 0.12, 0
+.22, 0.3, 0.21, 0.21, 0.65, 0.17, 0.86, 0.34, 0.41, 0.68, 0.16, 0.23, 0.31, 0.3
+5, 0.64, 0.13, 0.44, 0.82, 0.54, 0.28, 0.14, 0.29, 0.43)"[] 
+ []
+
+
+Overfull \hbox (2945.80954pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [11] "c(0.33, 0.59, 0.52, 0.53, 0.58, 0.58, 0.4, 0.52, 0.5
+5, 0.28, 0.43, 0.57, 0.37, 0.63, 0.27, 0.29, 0.43, 0.51, 0.65, 0.25, 0.64, 0.62
+, 0.57, 0.2, 0.47, 0.15, 0.37, 0.24, 0.39, 0.27, 0.36, 0.49, 0.46, 0.49, 0.46, 
+0.56, 0.4, 0.22, 0.51, 0.42, 0.34, 0.24, 0.36, 0.32, 0.29, 0.52, 0.41, 0.37, 0.
+47, 0.41, 0.49, 0.3, 0.41, 0.31, 0.5, 0.25, 0.49, 0.58, 0.25, 0.27, 0.84, NA, 0
+.32, 0.62, 0.3, 0.43, 0.25, 0.11, 0.37, 0.21, 0.3, 0.42, 0.46, 0.38, 0.44, 0.31
+, 0.53, 0.2, 0.41, 0.31, 0.44, 0.5, 0.47, 0.52, 0.56, \n0.38, 0.29, 0.41, 0.49,
+ 0.51, 0.69, 0.32, 0.35, 0.35, 0.55, 0.31, 0.41, 0.22, 0.2, 0.38, 0.23, 0.43, 0
+.58, 0.43, 0.39, 0.31, 0.38, 0.54, 0.14, 0.34, 0.56, 0.64, 0.48, 0.36)"[] 
+ []
+
+
+Overfull \hbox (2861.80978pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [12] "c(0.77, 0.29, 0.53, 0.42, 0.37, 0.31, 0.62, 0.45, 0.
+35, 0.76, 0.52, 0.34, 0.76, 0.28, 0.73, 0.85, 0.66, 0.6, 0.26, 0.87, 0.19, 0.23
+, 0.44, 0.93, 0, 0.7, 0.6, 0.73, 0.47, 0.67, 0.47, 0.48, 0.24, 0.48, 0.24, 0.4,
+ 0.49, 0.68, 0.57, 0.42, 0.66, 0.71, 0.58, 0.68, 0.7, 0.48, 0, 0.52, 0.5, 0.5, 
+0.53, 0.7, 0.56, 0.78, 0.38, 0.62, 0.48, 0.4, 0.91, 0.8, 0.24, NA, 0.46, 0.27, 
+0.66, 0.59, 0.82, 0.9, 0.48, 0.88, 0.18, 0.25, 0.4, 0.4, 0.54, 0.53, 0, 0.62, 0
+.59, 0.69, 0, 0.29, 0.56, 0.14, 0.38, 0.34, 0.44, 0.42, \n0.37, 0.38, 0.17, 0.3
+7, 0.46, 0.48, 0.36, 0.75, 0.48, 0.91, 0.71, 0.65, 0.78, 0.17, 0.2, 0.25, 0.37,
+ 0.68, 0.14, 0.36, 0.83, 0.53, 0.27, 0.14, 0.32, 0.56)"[] 
+ []
+
+
+Overfull \hbox (2940.55956pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [13] "c(0.5, 0.49, 0.46, 0.52, 0.49, 0.46, 0.43, 0.44, 0.5
+2, 0.46, 0.51, 0.54, 0.43, 0.55, 0.53, 0.45, 0.45, 0.48, 0.48, 0.47, 0.55, 0.51
+, 0.48, 0.45, 0.44, 0.48, 0.43, 0.45, 0.45, 0.46, 0.46, 0.46, 0.43, 0.46, 0.43,
+ 0.46, 0.45, 0.48, 0.51, 0.5, 0.46, 0.46, 0.47, 0.48, 0.48, 0.51, 0.4, 0.48, 0.
+48, 0.48, 0.48, 0.49, 0.45, 0.46, 0.47, 0.49, 0.51, 0.47, 0.48, 0.45, 0.86, NA,
+ 0.46, 0.53, 0.44, 0.47, 0.44, 0.43, 0.43, 0.48, 0.43, 0.48, 0.48, 0.49, 0.5, 0
+.47, 0.49, 0.49, 0.49, 0.5, 0.47, 0.51, 0.5, 0.56, 0.5, \n0.5, 0.48, 0.54, 0.54
+, 0.5, 0.54, 0.5, 0.47, 0.57, 0.58, 0.48, 0.51, 0.51, 0.48, 0.46, 0.53, 0.47, 0
+.52, 0.45, 0.47, 0.49, 0.48, 0.5, 0.47, 0.45, 0.47, 0.53, 0.52, 0.48)"[] 
+ []
+
+
+Overfull \hbox (1223.81454pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [14] "c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+ 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 
+2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0.46, NA, 2, 2, 2, 2, 2, 2, 
+2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4)"[] 
+ []
+
+
+Overfull \hbox (4725.55437pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [15] "c(\"0%\", \"96%\", \"42%\", \"97%\", \"90%\", \"84%\
+", \"39%\", \"13%\", \"78%\", \"0%\", \"35%\", \"46%\", \"0%\", \"67%\", \"22%\
+", \"0%\", \"19%\", \"12%\", \"59%\", \"19%\", \"57%\", \"54%\", \"13%\", \"0%\
+", \"43%\", \"83%\", \"18%\", \"69%\", \"47%\", \"38%\", \"30%\", \"34%\", \"90
+%\", \"34%\", \"90%\", \"57%\", \"26%\", \"32%\", \"76%\", \"57%\", \"64%\", \"
+20%\", \"33%\", \"17%\", \"37%\", \"54%\", \"64%\", \"48%\", \"45%\", \"19%\", 
+\"44%\", \"41%\", \"32%\", \"0%\", \"59%\", \"21%\", \"36%\", \"35%\", \"0%\", 
+\"17%\", \"2\", NA, \"29%\", \"54%\", \"20%\", \"13%\", \"43%\", \"0%\", \"16%\
+", \"0%\", \"93%\", \"93%\", \"90%\", \"45%\", \n\"44%\", \"74%\", \"84%\", \"9
+4%\", \"31%\", \"15%\", \"70%\", \"91%\", \"19%\", \"93%\", \"38%\", \"64%\", \
+"59%\", \"77%\", \"64%\", \"67%\", \"70%\", \"82%\", \"67%\", \"65%\", \"68%\",
+ \"33%\", \"59%\", \"0%\", \"27%\", \"21%\", \"15%\", \"92%\", \"91%\", \"90%\"
+, \"33%\", \"0%\", \"100%\", \"50%\", \"0%\", \"0%\", \"100%\", \"100%\", \"100
+%\", \"100%\")"[] 
+ []
+
+
+Overfull \hbox (4793.80417pt too wide) in paragraph at lines 148--148
+[]\T1/lmtt/m/n/10 ## [16] "c(\"93%\", \"94%\", \"85%\", \"84%\", \"80%\", \"71%
+\", \"70%\", \"68%\", \"67%\", \"46%\", \"45%\", \"34%\", \"33%\", \"33%\", \"2
+8%\", \"25%\", \"19%\", \"19%\", \"18%\", \"17%\", \"11%\", \"10%\", \"7%\", \"
+4%\", \"93%\", \"94%\", \"93%\", \"95%\", \"97%\", \"93%\", \"93%\", \"92%\", \
+"91%\", \"92%\", \"91%\", \"91%\", \"91%\", \"90%\", \"90%\", \"88%\", \"87%\",
+ \"84%\", \"76%\", \"75%\", \"74%\", \"73%\", \"71%\", \"71%\", \"70%\", \"70%\
+", \"68%\", \"67%\", \"67%\", \"66%\", \"62%\", \"54%\", \"46%\", \"45%\", \"37
+%\", \"36%\", \"0%\", NA, \"27%\", \"26%\", \"24%\", \"23%\", \"17%\", \"13%\",
+ \"9%\", \"0%\", \"95%\", \"95%\", \"95%\", \n\"95%\", \"95%\", \"95%\", \"95%\
+", \"97%\", \"94%\", \"94%\", \"91%\", \"84%\", \"84%\", \"83%\", \"83%\", \"82
+%\", \"89%\", \"88%\", \"88%\", \"88%\", \"74%\", \"68%\", \"71%\", \"65%\", \"
+63%\", \"61%\", \"53%\", \"50%\", \"33%\", \"21%\", \"15%\", \"100%\", \"73%\",
+ \"70%\", \"44%\", \"0%\", \"100%\", \"100%\", \"100%\", \"100%\", \"100%\", \"
+100%\", \"100%\", \"100%\")"[] 
+ []
+
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 156.
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 210
+.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [2]
+<stargazer_table_files/figure-latex/unnamed-chunk-2-1.pdf, id=19, 449.68pt x 28
+2.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-1.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-1.p
+df  used on input line 218.
+(pdftex.def)             Requested size: 449.69948pt x 282.06596pt.
+<stargazer_table_files/figure-latex/unnamed-chunk-2-2.pdf, id=20, 453.695pt x 2
+82.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-2.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-2.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-2.p
+df  used on input line 219.
+(pdftex.def)             Requested size: 453.6939pt x 282.05305pt.
+<stargazer_table_files/figure-latex/unnamed-chunk-2-3.pdf, id=21, 453.695pt x 2
+82.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-3.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-3.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-3.p
+df  used on input line 220.
+(pdftex.def)             Requested size: 453.6939pt x 282.05305pt.
+<stargazer_table_files/figure-latex/unnamed-chunk-2-4.pdf, id=22, 455.7025pt x 
+282.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-4.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-4.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-4.p
+df  used on input line 221.
+(pdftex.def)             Requested size: 455.70831pt x 282.05736pt.
+
+Overfull \hbox (255.18558pt too wide) in paragraph at lines 218--222
+[][] []
+ []
+
+
+Overfull \hbox (261.19441pt too wide) in paragraph at lines 218--222
+[] [] 
+ []
+
+[3 <./stargazer_table_files/figure-latex/unnamed-chunk-2-1.pdf> <./stargazer_ta
+ble_files/figure-latex/unnamed-chunk-2-2.pdf>] [4 <./stargazer_table_files/figu
+re-latex/unnamed-chunk-2-3.pdf> <./stargazer_table_files/figure-latex/unnamed-c
+hunk-2-4.pdf>]
+<stargazer_table_files/figure-latex/unnamed-chunk-2-5.pdf, id=60, 449.68pt x 28
+2.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-5.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-5.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-5.p
+df  used on input line 275.
+(pdftex.def)             Requested size: 449.69948pt x 282.06596pt.
+<stargazer_table_files/figure-latex/unnamed-chunk-2-6.pdf, id=61, 453.695pt x 2
+82.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-6.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-6.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-6.p
+df  used on input line 276.
+(pdftex.def)             Requested size: 453.6939pt x 282.05305pt.
+<stargazer_table_files/figure-latex/unnamed-chunk-2-7.pdf, id=62, 453.695pt x 2
+82.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-7.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-7.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-7.p
+df  used on input line 277.
+(pdftex.def)             Requested size: 453.6939pt x 282.05305pt.
+<stargazer_table_files/figure-latex/unnamed-chunk-2-8.pdf, id=63, 455.7025pt x 
+282.05376pt>
+File: stargazer_table_files/figure-latex/unnamed-chunk-2-8.pdf Graphic file (ty
+pe pdf)
+<use stargazer_table_files/figure-latex/unnamed-chunk-2-8.pdf>
+Package pdftex.def Info: stargazer_table_files/figure-latex/unnamed-chunk-2-8.p
+df  used on input line 278.
+(pdftex.def)             Requested size: 455.70831pt x 282.05736pt.
+
+Overfull \hbox (255.18558pt too wide) in paragraph at lines 275--279
+[][] []
+ []
+
+
+Overfull \hbox (261.19441pt too wide) in paragraph at lines 275--279
+[] [] 
+ []
+
+[5] [6 <./stargazer_table_files/figure-latex/unnamed-chunk-2-5.pdf> <./stargaze
+r_table_files/figure-latex/unnamed-chunk-2-6.pdf>]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 295.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 295.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 295
+.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 295
+.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 295.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 295.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 295.
+LaTeX Font Info:    Try loading font information for U+msa on input line 295.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 295.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+
+LaTeX Warning: Float too large for page by 29.42888pt on input line 341.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+[7 <./stargazer_table_files/figure-latex/unnamed-chunk-2-7.pdf> <./stargazer_ta
+ble_files/figure-latex/unnamed-chunk-2-8.pdf>] [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+(./stargazer_table.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package rerunfilecheck Info: File `stargazer_table.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+ ) 
+Here is how much of TeX's memory you used:
+ 12525 strings out of 492649
+ 185876 string characters out of 6129622
+ 325451 words of memory out of 5000000
+ 16209 multiletter control sequences out of 15000+600000
+ 36870 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,10n,38p,1162b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
+cal/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/20
+18/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-d
+ist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/
+dvips/lm/lm-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/l
+mmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2018/texmf-dis
+t/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
+pe1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
+/lm/lmsy7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtk10.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
+Output written on stargazer_table.pdf (8 pages, 260931 bytes).
+PDF statistics:
+ 164 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 10 named destinations out of 1000 (max. 500000)
+ 10281 words of extra memory for PDF output out of 12000 (max. 10000000)
+

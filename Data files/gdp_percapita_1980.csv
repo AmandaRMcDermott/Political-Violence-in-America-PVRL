@@ -1,0 +1,68 @@
+"SAGDP10S Per capita real GDP by state"
+"Per capita real GDP by state (Chained 1997 dollars) 1/" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","1980"
+"00000","United States",21604
+"01000","Alabama",16558
+"02000","Alaska",55364
+"04000","Arizona",20294
+"05000","Arkansas",15193
+"06000","California",25189
+"08000","Colorado",24206
+"09000","Connecticut",25262
+"10000","Delaware",27106
+"11000","District of Columbia",71528
+"12000","Florida",18996
+"13000","Georgia",18766
+"15000","Hawaii",27653
+"16000","Idaho",17315
+"17000","Illinois",22636
+"18000","Indiana",18622
+"19000","Iowa",19350
+"20000","Kansas",20954
+"21000","Kentucky",17208
+"22000","Louisiana",23401
+"23000","Maine",17084
+"24000","Maryland",22121
+"25000","Massachusetts",22705
+"26000","Michigan",20596
+"27000","Minnesota",21390
+"28000","Mississippi",14268
+"29000","Missouri",19407
+"30000","Montana",19040
+"31000","Nebraska",19818
+"32000","Nevada",27553
+"33000","New Hampshire",17566
+"34000","New Jersey",22375
+"35000","New Mexico",18785
+"36000","New York",26267
+"37000","North Carolina",18668
+"38000","North Dakota",18710
+"39000","Ohio",19605
+"40000","Oklahoma",20282
+"41000","Oregon",20197
+"42000","Pennsylvania",19523
+"44000","Rhode Island",19148
+"45000","South Carolina",15521
+"46000","South Dakota",16662
+"47000","Tennessee",17482
+"48000","Texas",23699
+"49000","Utah",18421
+"50000","Vermont",16663
+"51000","Virginia",21540
+"53000","Washington",24195
+"54000","West Virginia",14981
+"55000","Wisconsin",19366
+"56000","Wyoming",28568
+"91000","New England",21914
+"92000","Mideast",23958
+"93000","Great Lakes",20494
+"94000","Plains",20008
+"95000","Southeast",18462
+"96000","Southwest",22484
+"97000","Rocky Mountain",21760
+"98000","Far West",25164
+"Legend / Footnotes:"
+"1/ Per capita real GDP statistics for 1987-1997 reflect Census Bureau midyear population estimates."
+"Last updated: November 24, 2010."

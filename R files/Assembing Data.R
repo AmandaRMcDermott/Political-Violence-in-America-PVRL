@@ -46,7 +46,7 @@ library(tidyverse)
 library(rvest)
 # source: https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/stiag480.txt
 
-pop <- read.table(header = TRUE, text = "
+pop <- read.table(header = TRUE, nrows = 4386, text = "
                   Code State Age    Both_sexes    Male        Female
                   01    AL    0       62806       31888       30918
                   01    AL    1       58922       29869       29053
@@ -4436,12 +4436,19 @@ pop <- read.table(header = TRUE, text = "
                   56    WY   85        3473        1245        2228")
 
 pop <- pop %>% 
-  select(-Code, -Male, -Female) %>% 
+  dplyr::select(-Code, -Male, -Female) %>% 
   mutate(State = as.character(State)) %>%
   group_by(State) %>% 
   mutate(pop_1980 = sum(Both_sexes)) %>% 
-  select(State, population) %>% 
+  dplyr::select(State, pop_1980) %>% 
   unique()
+
+# add in puerto rico data
+# http://data.un.org/Data.aspx?d=POP&f=tableCode%3a1
+pr_pop <- tibble(State = "PR", pop_1980 = 3196520)
+pop <- full_join(pop, pr_pop)
+#write_csv(pop, "pop.csv")
+
 
 url <- read_html("https://pe.usps.com/text/pub28/28apb.htm")
 url <- url %>% 
@@ -4453,11 +4460,54 @@ pop <- pop %>%
   inner_join(state_abbr, by = c("State" = "X2")) %>% 
   rename(state = X1, state_abbrev = State)
 
-initial_pvia_2 <- initial_pvia_2 %>% 
-  inner_join(pop, by = "state")
+pvia_2 <- pvia_2 %>% 
+  left_join(pop, by = "state")
+
+# election years
+elec_yrs <- c(1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020)
+civ_rghts_yrs <- c(1954:1968)
+
+pvia_2 <- pvia_2 %>% 
+  mutate(election_yr = as.numeric(str_extract(date, "\\d{4}"))) %>% 
+  mutate(civ_rights_yrs = ifelse(election_yr %in% civ_rghts_yrs, 1, 0)) %>% 
+  transform(election_yr = ifelse(election_yr %in% elec_yrs, 1, 0))
+
+# homicide rate
+# source: https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeTrendsInOneVar.cfm
+homicide_1980 <- read_csv("homicide_1980.csv")
+homicide_1980 <- homicide_1980 %>% 
+  gather(2:52, key = state, value = homicide) %>% 
+  dplyr::select(-Year) %>% 
+  rename(homicide_rate = homicide)
+  
+# puerto rico homicide rate
+# source: https://journals-sagepub-com.proxyau.wrlc.org/doi/pdf/10.1177/1088767908314091 from appendix
+pr_homicide <- tibble(state = "Puerto Rico", homicide_rate = 15)
+homicide_1980 <- full_join(homicide_1980, pr_homicide)
+
+pvia_2 <- pvia_2 %>% 
+  left_join(homicide_1980, by = "state")
+
+# add in gdp per capita
+# source: https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1#reqid=70&step=1&isuri=1
+gdp_percapita_1980 <- read_csv("gdp_percapita_1980.csv", 
+                               col_types = cols(`1980` = col_integer()), 
+                               skip = 4)
+
+# this has more than 52 observations because it includes regions
+gdp_percapita_1980 <- gdp_percapita_1980 %>% 
+  select(-GeoFips) %>% 
+  rename(gdp_percapita_1980 = "1980", state = GeoName)
+
+pvia_2 <- pvia_2 %>% 
+  left_join(gdp_percapita_1980, by = "state") 
+
+# reorganize columns
+pvia_2 <- pvia_2 %>% 
+  select(date, city, state, target_type_1, target_type_2, target_name, perpetrator_1, perperator_name, perpetrator_class, perpetrator_2, Confidence, fatalities, injuries, reason, state_abbrev, pop_1980, election_yr, civ_rights_yrs, homicide_rate, gdp_percapita_1980, everything())
 
 # write to csv
-write_csv(initial_pvia_2, "initial_pvia_2.csv")
+write_csv(pvia_2, "pvia_2.csv")
 
 
 

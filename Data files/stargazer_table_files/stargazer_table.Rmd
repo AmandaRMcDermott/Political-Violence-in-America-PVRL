@@ -1,0 +1,136 @@
+---
+title: "Untitled"
+author: "Amanda McDermott"
+date: "4/28/2019"
+output: pdf_document
+classoption: landscape
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(stargazer)
+library(tidyverse)
+library(readr)
+holc <- read_csv("holc.csv")
+pvia_2 <- read_csv("pvia_2.csv")
+gtd_nkill_sum <- read_csv("gtd_nkill_sum.csv")
+```
+
+
+```{r, echo = FALSE, message=FALSE}
+# after assemblage
+holc$city[holc$city == "New York_city"] <- "New York"
+
+ny_msa <- c("Brooklyn", "Huntington", "Newark", "Jersey City", "Edison")
+
+pvia_2$city_holc <- pvia_2$city
+pvia_2$city_holc[pvia_2$city_holc %in% ny_msa] <- "New York_msa"
+
+
+
+as.character(holc[,c(2:17)])
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,2]))/100
+}
+
+holc$ANotMinority <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,3]))/100
+}
+
+holc$BNotMinority <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,4]))/100
+}
+
+holc$CMinority <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,5]))/100
+}
+
+holc$DMinority <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+holc$GINI <- as.numeric(holc$GINI)
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,8]))/100
+}
+
+holc$CLMI <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,9]))/100
+}
+
+holc$DLMI <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,6]))/100
+}
+
+holc$AMUI <- map_dbl(seq_along(holc$city), convert_to_dec)
+
+convert_to_dec <- function(x){
+  as.numeric(sub("%", "", holc[x,7]))/100
+}
+
+holc$BMUI <- map_dbl(seq_along(holc$city), convert_to_dec)
+```
+
+```{r}
+temp_holc <- holc[,c(1,2,3,4,5,6,7,8,9, 14)]
+
+temp <- pvia_2 %>% 
+  filter(!is.na(fatalities)) %>%
+  count(state, fatalities) %>% 
+  group_by(state) %>% 
+  mutate(assassinations = sum(n)) %>% 
+  dplyr::select(-fatalities, -n) %>% 
+  unique() %>% 
+  left_join(pvia_2, by = "state") %>% 
+  left_join(temp_holc, by = c("city_holc" = "city")) %>% 
+  mutate(year = as.integer(str_extract(date, "\\d{4}"))) %>% 
+  left_join(gtd_nkill_sum, by = c("year" = "iyear")) %>% 
+  transform(AMI = AMUI * 100,
+            BMUI = BMUI * 100,
+        CLMI = CLMI * 100,
+         DLMI = DLMI * 100,
+         GINI = GINI * 100 )
+
+lm_out <- lm(log(assassinations) ~ log(homicide_rate) +log(gdp_percapita_1980) + election_yr + civ_rights_yrs + gtd_incidents, data = temp, na.action = na.omit)
+
+
+
+lm_out2 <- lm(log(assassinations) ~ log(homicide_rate) + election_yr + civ_rights_yrs + CLMI +DLMI + GINI, data = temp, na.action = na.omit)
+summary(lm_out2)
+plot(lm_out2)
+
+exclude <- c("Robert Francis Kennedy","Dr. Calvin Jackson","James Chaney, Andrew Goodman, Mickey Schwerner")
+
+temp_no_outliers <- temp %>%
+  filter(!target_name %in% exclude)
+
+
+#model without outliers
+lm_out3 <- lm(log(assassinations) ~ log(homicide_rate) + election_yr + civ_rights_yrs + CLMI +DLMI + GINI, data = temp_no_outliers, na.action = na.omit)
+
+
+lm_out4 <- lm(log(assassinations) ~ log(homicide_rate) + election_yr + civ_rights_yrs + AMUI + BMUI + GINI, data = temp_no_outliers, na.action = na.omit)
+summary(lm_out4)
+plot(lm_out4)
+
+```
+
+```{r results='asis'}
+#stargazer(lm_out, lm_out2, lm_out3, title = "Regression Results", order = c(1, 3, 2, 5, 4, 6, 7, 8), #covariate.labels = c("Log(1980 Homicide Rate)","Election Year Dummy", "Log(1980 GDP Per Capita)", "Int'l Assassination Incidents", "Civil Rights Year Dummy", "C Lower-Middle Income", "D Lower-Middle Income", "Gini Index"), dep.var.labels = "Log(Assassination Attacks)", column.labels = c("", "Inequality Model", "Inequality Model w/o Outliers"))
+
+stargazer(lm_out, lm_out2, lm_out3, title = "Regression Results", order = c(1,3,2,5,4,6,7,8), covariate.labels = c("Log(1980 Homicide Rate)","Election Year Dummy", "Log(1980 GDP Per Capita)", "Int'l Assassination Incidents",  "Civil Rights Year Dummy",  "C Lower-Middle Income", "D Lower-Middle Income", "Gini Index"), dep.var.labels = "Log(Assassination Attacks)", column.labels = c("", "Inequality Model", "Inequality Model w/o Outliers"))
+
+
+```
+
